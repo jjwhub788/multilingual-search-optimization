@@ -79,6 +79,86 @@ def scope_rows(records, scope):
     raise ValueError(f"Unknown scope: {scope}")
 
 
+def verify_large_corpus():
+    """Verify the optional expanded search run, without loading a model."""
+    large = RESULTS / "tourapi_large_corpus_eval"
+    if not (large / "experiment_metadata.json").exists():
+        return
+    from prepare_large_corpus import key
+    from evaluate_large_corpus import rank_condition, keyed, belongs, CONDITIONS, CORPORA
+
+    meta = json.loads((large / "experiment_metadata.json").read_text(encoding="utf-8"))
+    progress = json.loads((large / "embedding_progress.json").read_text(encoding="utf-8"))
+    check(progress["completed_metadata_documents"] == 18038 and progress["extra_details_complete"],
+          "Large-corpus embeddings incomplete")
+    check(meta["source_records"] == 18038 and meta["full_mixed_candidate_groups"] == 17378,
+          "Unexpected expanded corpus size")
+    index = rows(large / "corpus_index.csv")
+    check(len(index) == 18038 and len({key(r) for r in index}) == 18038,
+          "Expanded corpus contains duplicate or missing record keys")
+    for i, r in enumerate(index):
+        check(int(r["embedding_row"]) == i, "Expanded corpus index order changed")
+    normalized_index = [dict(r, embedding_row=int(r["embedding_row"])) for r in index]
+    actual_index_hash = hashlib.sha256(json.dumps(normalized_index, ensure_ascii=False).encode()).hexdigest()
+    check(actual_index_hash == meta["source_signature"]["candidate_index_sha256"],
+          "Expanded corpus index hash mismatch")
+    check(sha256(DATA / "tourapi_clean.csv") == meta["source_signature"]["clean_source_sha256"],
+          "Expanded source snapshot changed")
+    gold = rows(DATA / "tourapi_pilot_details_300.csv")
+    positions = {key(r): i for i, r in enumerate(index)}
+    gold_positions = [positions[key(r)] for r in gold]
+    extra_positions = [int(r["embedding_row"]) for r in rows(large / "extra_detail_index.csv")]
+    check(len(gold_positions) == 300 and len(extra_positions) == 63
+          and set(gold_positions).isdisjoint(extra_positions), "Unexpected detail vector coverage")
+    check(sum(r["description_available"] == "YES" for r in index) == 363,
+          "Unexpected description coverage")
+    queries = rows(RESULTS / "tourapi_natural_query_eval_600" / "queries.csv")
+    baseline = RESULTS / "bge_m3_dense_full"
+    full_feature = RESULTS / "tourapi_full_feature_enrichment"
+    ranks_saved = rows(large / "rank_results.csv")
+    check(len(ranks_saved) == 14400, "Expected 14,400 expanded evaluation rows")
+    metrics_saved = rows(large / "metrics.csv")
+    prior = rows(full_feature / "rank_comparison.csv")
+    gaps = {(r["query_id"], r["target_language"]): r["gap_target"] for r in prior}
+    coverage = {(r["query_id"], r["target_language"]): r["coverage_group"]
+                for r in rows(RESULTS / "tourapi_coverage_retrieval_analysis" / "coverage_rank_joined.csv")
+                if r["eligible_primary"] == "YES"}
+    query_vec = embedding(RESULTS / "tourapi_natural_query_eval_600" / "query_embeddings.npy", (600, 1024))
+    scores = query_vec @ embedding(large / "metadata_embeddings.npy", (18038, 1024)).T
+    for condition in CONDITIONS:
+        if condition == "AVAILABLE_ORIGINAL":
+            scores[:, gold_positions] = query_vec @ embedding(baseline / "document_embeddings.npy", (300, 1024)).T
+            scores[:, extra_positions] = query_vec @ embedding(large / "extra_detail_embeddings.npy", (63, 1024)).T
+        elif condition == "AVAILABLE_ENRICHED":
+            scores[:, gold_positions] = query_vec @ embedding(full_feature / "document_embeddings_enriched.npy",
+                                                              (300, 1024)).T
+        for corpus, subset in zip(CORPORA, (gold_positions, list(range(18038)))):
+            computed = rank_condition(scores, index, queries, subset, condition, corpus, gaps, coverage)
+            saved = [r for r in ranks_saved if r["condition"] == condition and r["corpus"] == corpus]
+            a, b = keyed(computed), keyed(saved)
+            check(all(r["rank"] == int(b[k]["rank"]) and r["candidate_count"] == int(b[k]["candidate_count"])
+                      for k, r in a.items()), f"Expanded ranks differ: {condition}/{corpus}")
+            for saved_metric in metrics_saved:
+                if saved_metric["condition"] == condition and saved_metric["corpus"] == corpus:
+                    group = [r for r in computed if belongs(r, saved_metric["scope"])]
+                    check(len(group) == int(saved_metric["evaluations"]), "Expanded metric count mismatch")
+                    metric_matches(group, "rank", saved_metric)
+    del scores
+    print("PASS: 18,038-record search corpus, 14,400 ranks, and expanded metrics verified")
+
+    if (large / "method_strategy_metadata.json").exists():
+        strategy = rows(large / "method_strategy_rank_results.csv")
+        check(len(strategy) == 24000, "Unexpected full-corpus method evaluation count")
+        for saved in rows(large / "method_strategy_metrics.csv"):
+            if saved["corpus"] != "FULL_18038":
+                continue
+            group = [r for r in strategy if r["setting"] == saved["setting"]
+                     and r["condition"] == saved["method"] and belongs(r, saved["scope"])]
+            check(len(group) == int(saved["evaluations"]), "Strategy metric count mismatch")
+            metric_matches(group, "rank", saved)
+        print("PASS: expanded translation strategy metrics")
+
+
 def main():
     pilot_path = DATA / "tourapi_pilot_details_300.csv"
     standard_path = DATA / "tourapi_standardized.csv"
@@ -169,6 +249,7 @@ def main():
     gap = summary["ALL_GAP_TARGETS"]
     print(f"Gap-target R@1: {float(gap['recall_at_1_before']):.2%} -> "
           f"{float(gap['recall_at_1_after']):.2%}")
+    verify_large_corpus()
     print("All saved-result checks completed. No files changed.")
 
 
