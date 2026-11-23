@@ -1,0 +1,10 @@
+﻿query_type,language,intents,present,partially_confirmed,missing_confirmed,conflict,partial_candidate,review,present_rate,manual_review_required,present_lexical_evidence,source_text_followup
+REPRESENTATIVE,ko,100,100,0,0,0,0,0,1.0,0,100,0
+REPRESENTATIVE,en,100,87,13,0,0,0,0,0.87,0,81,19
+REPRESENTATIVE,ja,100,93,7,0,0,0,0,0.93,0,87,13
+DETAIL,ko,100,98,2,0,0,0,0,0.98,0,98,2
+DETAIL,en,100,67,20,12,1,0,0,0.67,1,62,38
+DETAIL,ja,100,75,16,9,0,0,0,0.75,0,70,30
+ALL,ko,200,198,2,0,0,0,0,0.99,0,198,2
+ALL,en,200,154,33,12,1,0,0,0.77,1,143,57
+ALL,ja,200,168,23,9,0,0,0,0.84,0,157,43
