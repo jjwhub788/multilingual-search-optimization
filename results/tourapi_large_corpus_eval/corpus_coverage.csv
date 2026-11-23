@@ -1,5 +1,0 @@
-﻿language,records,with_title,with_address,with_existing_description,without_description,description_coverage,gold_records,non_gold_cached_descriptions,non_gold_description_coverage,known_linked_records
-ko,12581,12581,12580,163,12418,0.01295604,100,63,0.00504767,330
-en,2822,2822,2807,100,2722,0.03543586,100,0,0.0,330
-ja,2635,2635,2635,100,2535,0.03795066,100,0,0.0,330
-ALL,18038,18038,18022,363,17675,0.02012418,300,63,0.0035517,990

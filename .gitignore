@@ -238,3 +238,5 @@ __marimo__/
 
 # Additional environment files
 .env.*
+/results/*
+!/results/.gitkeep
