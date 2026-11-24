@@ -1,9 +1,21 @@
-numpy
-pandas
-scipy
-scikit-learn
-matplotlib
-seaborn
+# Research environment: Python 3.12.16. Model/numerical versions used locally.
+numpy==2.5.5
+scipy==1.18.1
+scikit-learn==1.9.1
+torch==2.15.0
+sentence-transformers==5.7.0
+transformers==5.23.0
+huggingface-hub==2.4.0
+tokenizers==0.23.3
+safetensors==0.8.0
+
+# Data preparation and collection.
+pandas==3.1.1
 requests
 python-dotenv
+sentencepiece
+
+# Optional exploration and visualization tools.
+matplotlib
+seaborn
 jupyter
