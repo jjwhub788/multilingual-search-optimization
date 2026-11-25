@@ -1,0 +1,292 @@
+﻿intent_id,query_id,place_id,title_ko,field,language,split,query,relevance_review,language_review,other_relevant_places,review_note
+DEV-0001,DEV-0001-ko,1059479,여의도한강공원,opening_hours,ko,dev,여의도한강공원 운영 시간,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0001,DEV-0001-en,1059479,여의도한강공원,opening_hours,en,dev,Yeouido Hangang Park (여의도한강공원) opening hours,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0001,DEV-0001-ja,1059479,여의도한강공원,opening_hours,ja,dev,汝矣島漢江公園（여의도한강공원） 営業時間,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0002,DEV-0002-ko,1087114,좌구산 자연휴양림,parking,ko,dev,좌구산 자연휴양림 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0002,DEV-0002-en,1087114,좌구산 자연휴양림,parking,en,dev,Jwagusan Recreational Forest (좌구산 자연휴양림) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0002,DEV-0002-ja,1087114,좌구산 자연휴양림,parking,ja,dev,チャグサン(坐亀山 )自然休養林 (좌구산 자연휴양림) 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0003,DEV-0003-ko,125514,안양예술공원,parking,ko,dev,안양예술공원 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0003,DEV-0003-en,125514,안양예술공원,parking,en,dev,Anyang Art Park (안양예술공원) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0003,DEV-0003-ja,125514,안양예술공원,parking,ja,dev,安養芸術公園（안양예술공원） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0004,DEV-0004-ko,125583,오두산 통일전망대,holidays,ko,dev,오두산 통일전망대 휴무일,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0004,DEV-0004-en,125583,오두산 통일전망대,holidays,en,dev,Odusan Unification Observatory (오두산 통일전망대) closed days,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0004,DEV-0004-ja,125583,오두산 통일전망대,holidays,ja,dev,烏頭山統一展望台（오두산 통일전망대） 休業日,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0005,DEV-0005-ko,125583,오두산 통일전망대,parking,ko,dev,오두산 통일전망대 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0005,DEV-0005-en,125583,오두산 통일전망대,parking,en,dev,Odusan Unification Observatory (오두산 통일전망대) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0005,DEV-0005-ja,125583,오두산 통일전망대,parking,ja,dev,烏頭山統一展望台（오두산 통일전망대） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0006,DEV-0006-ko,125761,구룡사,parking,ko,dev,구룡사 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0006,DEV-0006-en,125761,구룡사,parking,en,dev,Guryongsa Temple (구룡사) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0006,DEV-0006-ja,125761,구룡사,parking,ja,dev,亀龍寺（구룡사） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0007,DEV-0007-ko,125790,강릉 경포대,parking,ko,dev,강릉 경포대 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0007,DEV-0007-en,125790,강릉 경포대,parking,en,dev,Gyeongpodae Pavilion (강릉 경포대) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0007,DEV-0007-ja,125790,강릉 경포대,parking,ja,dev,江陵 鏡浦台（강릉 경포대） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0008,DEV-0008-ko,125800,강릉 선교장,parking,ko,dev,강릉 선교장 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0008,DEV-0008-en,125800,강릉 선교장,parking,en,dev,Seongyojang House (강릉 선교장) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0008,DEV-0008-ja,125800,강릉 선교장,parking,ja,dev,江陵船橋荘（강릉 선교장） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0009,DEV-0009-ko,125957,금산 칠백의총,holidays,ko,dev,금산 칠백의총 휴무일,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0009,DEV-0009-en,125957,금산 칠백의총,holidays,en,dev,Tomb of Seven Hundred Patriotic Martyrs (Geumsan) (금산 칠백의총) closed days,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0009,DEV-0009-ja,125957,금산 칠백의총,holidays,ja,dev,錦山 七百義塚（금산 칠백의총） 休業日,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0010,DEV-0010-ko,125957,금산 칠백의총,parking,ko,dev,금산 칠백의총 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0010,DEV-0010-en,125957,금산 칠백의총,parking,en,dev,Tomb of Seven Hundred Patriotic Martyrs (Geumsan) (금산 칠백의총) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0010,DEV-0010-ja,125957,금산 칠백의총,parking,ja,dev,錦山 七百義塚（금산 칠백의총） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0011,DEV-0011-ko,126341,백양사,parking,ko,dev,백양사 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0011,DEV-0011-en,126341,백양사,parking,en,dev,Baegyangsa Temple (백양사) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0011,DEV-0011-ja,126341,백양사,parking,ja,dev,白羊寺（백양사） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0012,DEV-0012-ko,126346,개암사,experience,ko,dev,개암사 체험 프로그램,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0012,DEV-0012-en,126346,개암사,experience,en,dev,Gaeamsa Temple (개암사) experience programs,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0012,DEV-0012-ja,126346,개암사,experience,ja,dev,開岩寺（개암사） 体験プログラム,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0013,DEV-0013-ko,126346,개암사,opening_hours,ko,dev,개암사 운영 시간,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0013,DEV-0013-en,126346,개암사,opening_hours,en,dev,Gaeamsa Temple (개암사) opening hours,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0013,DEV-0013-ja,126346,개암사,opening_hours,ja,dev,開岩寺（개암사） 営業時間,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0014,DEV-0014-ko,126346,개암사,parking,ko,dev,개암사 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0014,DEV-0014-en,126346,개암사,parking,en,dev,Gaeamsa Temple (개암사) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0014,DEV-0014-ja,126346,개암사,parking,ja,dev,開岩寺（개암사） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0015,DEV-0015-ko,126397,광한루원,parking,ko,dev,광한루원 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0015,DEV-0015-en,126397,광한루원,parking,en,dev,Gwanghalluwon Garden (광한루원) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0015,DEV-0015-ja,126397,광한루원,parking,ja,dev,広寒楼苑（광한루원） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0016,DEV-0016-ko,126487,마로니에공원,opening_hours,ko,dev,마로니에공원 운영 시간,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0016,DEV-0016-en,126487,마로니에공원,opening_hours,en,dev,Marronnier Park (마로니에공원) opening hours,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0016,DEV-0016-ja,126487,마로니에공원,opening_hours,ja,dev,マロニエ公園（마로니에공원） 営業時間,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0017,DEV-0017-ko,126508,경복궁,admission_fee,ko,dev,경복궁 입장료,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0017,DEV-0017-en,126508,경복궁,admission_fee,en,dev,Gyeongbokgung Palace (경복궁) admission fee,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0017,DEV-0017-ja,126508,경복궁,admission_fee,ja,dev,景福宮（경복궁） 入場料金,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0018,DEV-0018-ko,126508,경복궁,holidays,ko,dev,경복궁 휴무일,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0018,DEV-0018-en,126508,경복궁,holidays,en,dev,Gyeongbokgung Palace (경복궁) closed days,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0018,DEV-0018-ja,126508,경복궁,holidays,ja,dev,景福宮（경복궁） 休業日,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0019,DEV-0019-ko,126508,경복궁,parking,ko,dev,경복궁 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0019,DEV-0019-en,126508,경복궁,parking,en,dev,Gyeongbokgung Palace (경복궁) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0019,DEV-0019-ja,126508,경복궁,parking,ja,dev,景福宮（경복궁） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0020,DEV-0020-ko,126747,남산골한옥마을,holidays,ko,dev,남산골한옥마을 휴무일,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0020,DEV-0020-en,126747,남산골한옥마을,holidays,en,dev,Namsangol Hanok Village (남산골한옥마을) closed days,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0020,DEV-0020-ja,126747,남산골한옥마을,holidays,ja,dev,南山コル韓屋村（남산골한옥마을） 休業日,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0021,DEV-0021-ko,126825,용마폭포공원,opening_hours,ko,dev,용마폭포공원 운영 시간,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0021,DEV-0021-en,126825,용마폭포공원,opening_hours,en,dev,Yongma Falls Park (용마폭포공원) opening hours,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0021,DEV-0021-ja,126825,용마폭포공원,opening_hours,ja,dev,龍馬瀑布公園（용마폭포공원） 営業時間,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0022,DEV-0022-ko,127075,광주공원,opening_hours,ko,dev,광주공원 운영 시간,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0022,DEV-0022-en,127075,광주공원,opening_hours,en,dev,Gwangju Park (광주공원) opening hours,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0022,DEV-0022-ja,127075,광주공원,opening_hours,ja,dev,光州公園（광주공원） 営業時間,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0023,DEV-0023-ko,127075,광주공원,parking,ko,dev,광주공원 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0023,DEV-0023-en,127075,광주공원,parking,en,dev,Gwangju Park (광주공원) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0023,DEV-0023-ja,127075,광주공원,parking,ja,dev,光州公園（광주공원） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0024,DEV-0024-ko,127539,광주패밀리랜드,admission_fee,ko,dev,광주패밀리랜드 입장료,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0024,DEV-0024-en,127539,광주패밀리랜드,admission_fee,en,dev,Gwangju Family Land (광주 패밀리랜드) admission fee,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0024,DEV-0024-ja,127539,광주패밀리랜드,admission_fee,ja,dev,光州ファミリーランド（광주패밀리랜드） 入場料金,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0025,DEV-0025-ko,127539,광주패밀리랜드,parking,ko,dev,광주패밀리랜드 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0025,DEV-0025-en,127539,광주패밀리랜드,parking,en,dev,Gwangju Family Land (광주 패밀리랜드) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0025,DEV-0025-ja,127539,광주패밀리랜드,parking,ja,dev,光州ファミリーランド（광주패밀리랜드） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0026,DEV-0026-ko,127621,남망산 조각공원,parking,ko,dev,남망산 조각공원 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0026,DEV-0026-en,127621,남망산 조각공원,parking,en,dev,Nammangsan Sculpture Park (남망산 조각공원) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0026,DEV-0026-ja,127621,남망산 조각공원,parking,ja,dev,南望山彫刻公園（남망산 조각공원） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0027,DEV-0027-ko,127740,별마로천문대,admission_fee,ko,dev,별마로천문대 입장료,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0027,DEV-0027-en,127740,별마로천문대,admission_fee,en,dev,Byeolmaro Observatory (별마로천문대) admission fee,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0027,DEV-0027-ja,127740,별마로천문대,admission_fee,ja,dev,ピョルマロ天文台（별마로천문대） 入場料金,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0028,DEV-0028-ko,127740,별마로천문대,holidays,ko,dev,별마로천문대 휴무일,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0028,DEV-0028-en,127740,별마로천문대,holidays,en,dev,Byeolmaro Observatory (별마로천문대) closed days,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0028,DEV-0028-ja,127740,별마로천문대,holidays,ja,dev,ピョルマロ天文台（별마로천문대） 休業日,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0029,DEV-0029-ko,127740,별마로천문대,parking,ko,dev,별마로천문대 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0029,DEV-0029-en,127740,별마로천문대,parking,en,dev,Byeolmaro Observatory (별마로천문대) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0029,DEV-0029-ja,127740,별마로천문대,parking,ja,dev,ピョルマロ天文台（별마로천문대） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0030,DEV-0030-ko,127817,미동산수목원,holidays,ko,dev,미동산수목원 휴무일,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0030,DEV-0030-en,127817,미동산수목원,holidays,en,dev,Midongsan Arboretum (미동산수목원) closed days,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0030,DEV-0030-ja,127817,미동산수목원,holidays,ja,dev,米東山樹木園（미동산수목원） 休業日,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0031,DEV-0031-ko,127817,미동산수목원,parking,ko,dev,미동산수목원 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0031,DEV-0031-en,127817,미동산수목원,parking,en,dev,Midongsan Arboretum (미동산수목원) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0031,DEV-0031-ja,127817,미동산수목원,parking,ja,dev,米東山樹木園（미동산수목원） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0032,DEV-0032-ko,127823,한택식물원,parking,ko,dev,한택식물원 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0032,DEV-0032-en,127823,한택식물원,parking,en,dev,Hantaek Botanical Garden (한택식물원) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0032,DEV-0032-ja,127823,한택식물원,parking,ja,dev,韓宅植物園（한택식물원） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0033,DEV-0033-ko,127860,금능석물원,parking,ko,dev,금능석물원 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0033,DEV-0033-en,127860,금능석물원,parking,en,dev,Geumneung Seokmulwon (Geumneung Rock Park) (금능석물원) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0033,DEV-0033-ja,127860,금능석물원,parking,ja,dev,金陵石物園（금능석물원） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0034,DEV-0034-ko,127889,캐리비안베이,parking,ko,dev,캐리비안베이 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0034,DEV-0034-en,127889,캐리비안베이,parking,en,dev,Caribbean Bay (캐리비안베이) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0034,DEV-0034-ja,127889,캐리비안베이,parking,ja,dev,カリビアンベイ（캐리비안베이） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0035,DEV-0035-ko,128627,이월드,parking,ko,dev,이월드 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0035,DEV-0035-en,128627,이월드,parking,en,dev,E-World (이월드) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0035,DEV-0035-ja,128627,이월드,parking,ja,dev,E-WORLD（이월드） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0036,DEV-0036-ko,128670,강주연못,parking,ko,dev,강주연못 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0036,DEV-0036-en,128670,강주연못,parking,en,dev,Gangju Pond (강주연못) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0036,DEV-0036-ja,128670,강주연못,parking,ja,dev,康州池（강주연못） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0037,DEV-0037-ko,128961,강변스파랜드,opening_hours,ko,dev,강변스파랜드 운영 시간,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0037,DEV-0037-en,128961,강변스파랜드,opening_hours,en,dev,Riverside Spa Land (강변스파랜드) opening hours,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0037,DEV-0037-ja,128961,강변스파랜드,opening_hours,ja,dev,江辺スパランド（강변스파랜드） 営業時間,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0038,DEV-0038-ko,128961,강변스파랜드,parking,ko,dev,강변스파랜드 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0038,DEV-0038-en,128961,강변스파랜드,parking,en,dev,Riverside Spa Land (강변스파랜드) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0038,DEV-0038-ja,128961,강변스파랜드,parking,ja,dev,江辺スパランド（강변스파랜드） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0039,DEV-0039-ko,129000,추암 촛대바위,parking,ko,dev,추암 촛대바위 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0039,DEV-0039-en,129000,추암 촛대바위,parking,en,dev,Chuam Chotdaebawi Rock (추암 촛대바위) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0039,DEV-0039-ja,129000,추암 촛대바위,parking,ja,dev,湫岩燭台岩（추암 촛대바위） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0040,DEV-0040-ko,129438,장태산자연휴양림,parking,ko,dev,장태산자연휴양림 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0040,DEV-0040-en,129438,장태산자연휴양림,parking,en,dev,Jangtaesan Recreational Forest (장태산자연휴양림) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0040,DEV-0040-ja,129438,장태산자연휴양림,parking,ja,dev,壮泰山自然休養林（장태산자연휴양림） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0041,DEV-0041-ko,129443,광주호 호수생태원,opening_hours,ko,dev,광주호 호수생태원 운영 시간,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0041,DEV-0041-en,129443,광주호 호수생태원,opening_hours,en,dev,Gwangjuho Lake Eco Park (광주호 호수생태원) opening hours,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0041,DEV-0041-ja,129443,광주호 호수생태원,opening_hours,ja,dev,光州湖湖水生態園（광주호 호수생태원） 営業時間,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0042,DEV-0042-ko,129683,용소막성당,parking,ko,dev,용소막성당 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0042,DEV-0042-en,129683,용소막성당,parking,en,dev,Yongsomak Catholic Church (용소막성당) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0042,DEV-0042-ja,129683,용소막성당,parking,ja,dev,龍召幕聖堂（용소막성당） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0043,DEV-0043-ko,1607565,제이드가든,opening_hours,ko,dev,제이드가든 운영 시간,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0043,DEV-0043-en,1607565,제이드가든,opening_hours,en,dev,Jade Garden (제이드가든) opening hours,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0043,DEV-0043-ja,1607565,제이드가든,opening_hours,ja,dev,ジェイドガーデン（제이드가든） 営業時間,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0044,DEV-0044-ko,1607565,제이드가든,parking,ko,dev,제이드가든 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0044,DEV-0044-en,1607565,제이드가든,parking,en,dev,Jade Garden (제이드가든) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0044,DEV-0044-ja,1607565,제이드가든,parking,ja,dev,ジェイドガーデン（제이드가든） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0045,DEV-0045-ko,1626349,팔공산 케이블카,parking,ko,dev,팔공산 케이블카 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0045,DEV-0045-en,1626349,팔공산 케이블카,parking,en,dev,Palgongsan Cable Car (팔공산 케이블카) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0045,DEV-0045-ja,1626349,팔공산 케이블카,parking,ja,dev,八公山ケーブルカー（팔공산 케이블카） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0046,DEV-0046-ko,1845544,원마운트 워터파크,parking,ko,dev,원마운트 워터파크 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0046,DEV-0046-en,1845544,원마운트 워터파크,parking,en,dev,Onemount Water Park (원마운트 워터파크) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0046,DEV-0046-ja,1845544,원마운트 워터파크,parking,ja,dev,ワンマウントウォーターパーク（원마운트 워터파크） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0047,DEV-0047-ko,1899635,홍천 은행나무숲,parking,ko,dev,홍천 은행나무숲 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0047,DEV-0047-en,1899635,홍천 은행나무숲,parking,en,dev,Hongcheon Ginkgo Forest (홍천 은행나무숲) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0047,DEV-0047-ja,1899635,홍천 은행나무숲,parking,ja,dev,洪川銀杏の森（홍천 은행나무숲） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0048,DEV-0048-ko,1921423,롯데워터파크,parking,ko,dev,롯데워터파크 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0048,DEV-0048-en,1921423,롯데워터파크,parking,en,dev,Lotte Water Park (롯데워터파크) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0048,DEV-0048-ja,1921423,롯데워터파크,parking,ja,dev,ロッテウォーターパーク（롯데워터파크） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0049,DEV-0049-ko,2350092,더베이101,parking,ko,dev,더베이101 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0049,DEV-0049-en,2350092,더베이101,parking,en,dev,The Bay 101 (더베이101) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0049,DEV-0049-ja,2350092,더베이101,parking,ja,dev,The bay101（더베이101） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0050,DEV-0050-ko,2436233,화담숲,opening_hours,ko,dev,화담숲 운영 시간,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0050,DEV-0050-en,2436233,화담숲,opening_hours,en,dev,Hwadam Botanic Garden (화담숲) opening hours,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0050,DEV-0050-ja,2436233,화담숲,opening_hours,ja,dev,ファダムスプ（和談の森）（화담숲） 営業時間,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0051,DEV-0051-ko,2436233,화담숲,parking,ko,dev,화담숲 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0051,DEV-0051-en,2436233,화담숲,parking,en,dev,Hwadam Botanic Garden (화담숲) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0051,DEV-0051-ja,2436233,화담숲,parking,ja,dev,ファダムスプ（和談の森）（화담숲） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0052,DEV-0052-ko,250398,정취암,parking,ko,dev,정취암 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0052,DEV-0052-en,250398,정취암,parking,en,dev,Jeongchwiam Hermitage (정취암) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0052,DEV-0052-ja,250398,정취암,parking,ja,dev,浄趣庵（정취암） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0053,DEV-0053-ko,2513971,가실성당,parking,ko,dev,가실성당 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0053,DEV-0053-en,2513971,가실성당,parking,en,dev,Gasil Catholic Church (가실성당) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0053,DEV-0053-ja,2513971,가실성당,parking,ja,dev,佳室教会（가실성당） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0054,DEV-0054-ko,2554070,깡깡이 예술마을,experience,ko,dev,깡깡이 예술마을 체험 프로그램,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0054,DEV-0054-en,2554070,깡깡이 예술마을,experience,en,dev,KANGKANGEE Arts Village (깡깡이 예술마을) experience programs,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0054,DEV-0054-ja,2554070,깡깡이 예술마을,experience,ja,dev,カンカンイ芸術村（깡깡이 예술마을） 体験プログラム,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0055,DEV-0055-ko,2554070,깡깡이 예술마을,holidays,ko,dev,깡깡이 예술마을 휴무일,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0055,DEV-0055-en,2554070,깡깡이 예술마을,holidays,en,dev,KANGKANGEE Arts Village (깡깡이 예술마을) closed days,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0055,DEV-0055-ja,2554070,깡깡이 예술마을,holidays,ja,dev,カンカンイ芸術村（깡깡이 예술마을） 休業日,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0056,DEV-0056-ko,2563697,지산유원지,admission_fee,ko,dev,지산유원지 입장료,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0056,DEV-0056-en,2563697,지산유원지,admission_fee,en,dev,Jisan Recreation Area (지산유원지) admission fee,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0056,DEV-0056-ja,2563697,지산유원지,admission_fee,ja,dev,芝山遊園地（지산유원지） 入場料金,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0057,DEV-0057-ko,2563697,지산유원지,parking,ko,dev,지산유원지 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0057,DEV-0057-en,2563697,지산유원지,parking,en,dev,Jisan Recreation Area (지산유원지) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0057,DEV-0057-ja,2563697,지산유원지,parking,ja,dev,芝山遊園地（지산유원지） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0058,DEV-0058-ko,2594360,익산교도소세트장,holidays,ko,dev,익산교도소세트장 휴무일,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0058,DEV-0058-en,2594360,익산교도소세트장,holidays,en,dev,Iksan Prison Set (익산교도소세트장) closed days,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0058,DEV-0058-ja,2594360,익산교도소세트장,holidays,ja,dev,益山刑務所セット場（익산교도소세트장） 休業日,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0059,DEV-0059-ko,2594360,익산교도소세트장,parking,ko,dev,익산교도소세트장 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0059,DEV-0059-en,2594360,익산교도소세트장,parking,en,dev,Iksan Prison Set (익산교도소세트장) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0059,DEV-0059-ja,2594360,익산교도소세트장,parking,ja,dev,益山刑務所セット場（익산교도소세트장） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0060,DEV-0060-ko,2603500,경주 양남 주상절리 전망대,holidays,ko,dev,경주 양남 주상절리 전망대 휴무일,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0060,DEV-0060-en,2603500,경주 양남 주상절리 전망대,holidays,en,dev,Gyeongju Yangnam Columnar Joint Observatory (경주 양남 주상절리 전망대) closed days,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0060,DEV-0060-ja,2603500,경주 양남 주상절리 전망대,holidays,ja,dev,慶州陽南柱状節理展望台（경주 양남 주상절리 전망대） 休業日,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0061,DEV-0061-ko,2603500,경주 양남 주상절리 전망대,parking,ko,dev,경주 양남 주상절리 전망대 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0061,DEV-0061-en,2603500,경주 양남 주상절리 전망대,parking,en,dev,Gyeongju Yangnam Columnar Joint Observatory (경주 양남 주상절리 전망대) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0061,DEV-0061-ja,2603500,경주 양남 주상절리 전망대,parking,ja,dev,慶州陽南柱状節理展望台（경주 양남 주상절리 전망대） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0062,DEV-0062-ko,2606298,성이시돌목장,parking,ko,dev,성이시돌목장 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0062,DEV-0062-en,2606298,성이시돌목장,parking,en,dev,St. Isidore Farm (성이시돌목장) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0062,DEV-0062-ja,2606298,성이시돌목장,parking,ja,dev,聖イシドル牧場（성이시돌목장） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0063,DEV-0063-ko,2613450,깊은산속 옹달샘,parking,ko,dev,깊은산속 옹달샘 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0063,DEV-0063-en,2613450,깊은산속 옹달샘,parking,en,dev,Godowon Healing Center (깊은산속 옹달샘) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0063,DEV-0063-ja,2613450,깊은산속 옹달샘,parking,ja,dev,キプンサンソッ・オンダルセム(深い山の中森の泉) (깊은산속 옹달샘) 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0064,DEV-0064-ko,2617724,마린시티,parking,ko,dev,마린시티 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0064,DEV-0064-en,2617724,마린시티,parking,en,dev,Marine City (마린시티) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0064,DEV-0064-ja,2617724,마린시티,parking,ja,dev,マリンシティ（마린시티） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0065,DEV-0065-ko,2633896,가산수피아,opening_hours,ko,dev,가산수피아 운영 시간,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0065,DEV-0065-en,2633896,가산수피아,opening_hours,en,dev,Gasan Supia (가산수피아) opening hours,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0065,DEV-0065-ja,2633896,가산수피아,opening_hours,ja,dev,架山スピア（가산수피아） 営業時間,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0066,DEV-0066-ko,2633896,가산수피아,parking,ko,dev,가산수피아 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0066,DEV-0066-en,2633896,가산수피아,parking,en,dev,Gasan Supia (가산수피아) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0066,DEV-0066-ja,2633896,가산수피아,parking,ja,dev,架山スピア（가산수피아） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0067,DEV-0067-ko,2656482,고하도 해상테마파크,opening_hours,ko,dev,고하도 해상테마파크 운영 시간,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0067,DEV-0067-en,2656482,고하도 해상테마파크,opening_hours,en,dev,Gohado Marine Theme Park (고하도 해상테마파크) opening hours,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0067,DEV-0067-ja,2656482,고하도 해상테마파크,opening_hours,ja,dev,高下島海上テーマパーク（고하도 해상테마파크） 営業時間,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0068,DEV-0068-ko,2661441,등기산스카이워크,parking,ko,dev,등기산스카이워크 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0068,DEV-0068-en,2661441,등기산스카이워크,parking,en,dev,Deunggisan Skywalk (등기산스카이워크) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0068,DEV-0068-ja,2661441,등기산스카이워크,parking,ja,dev,登起山スカイウォーク（등기산스카이워크） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0069,DEV-0069-ko,2661736,행주산성 역사공원,parking,ko,dev,행주산성 역사공원 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0069,DEV-0069-en,2661736,행주산성 역사공원,parking,en,dev,Haengjusanseong Fortress History Park (행주산성 역사공원) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0069,DEV-0069-ja,2661736,행주산성 역사공원,parking,ja,dev,幸州山城歴史公園（행주산성 역사공원） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0070,DEV-0070-ko,2668973,부산엑스더스카이,opening_hours,ko,dev,부산엑스더스카이 운영 시간,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0070,DEV-0070-en,2668973,부산엑스더스카이,opening_hours,en,dev,BUSAN X the SKY (부산엑스더스카이) opening hours,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0070,DEV-0070-ja,2668973,부산엑스더스카이,opening_hours,ja,dev,BUSAN X the SKY（부산엑스더스카이） 営業時間,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0071,DEV-0071-ko,2668973,부산엑스더스카이,parking,ko,dev,부산엑스더스카이 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0071,DEV-0071-en,2668973,부산엑스더스카이,parking,en,dev,BUSAN X the SKY (부산엑스더스카이) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0071,DEV-0071-ja,2668973,부산엑스더스카이,parking,ja,dev,BUSAN X the SKY（부산엑스더스카이） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0072,DEV-0072-ko,2711379,덕우리체험마을,parking,ko,dev,덕우리체험마을 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0072,DEV-0072-en,2711379,덕우리체험마을,parking,en,dev,Deokwoo Experience Village (덕우리체험마을) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0072,DEV-0072-ja,2711379,덕우리체험마을,parking,ja,dev,徳雨里体験村（덕우리체험마을） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0073,DEV-0073-ko,2713440,순창 쉴랜드,parking,ko,dev,순창 쉴랜드 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0073,DEV-0073-en,2713440,순창 쉴랜드,parking,en,dev,Shil Land (쉴랜드) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0073,DEV-0073-ja,2713440,순창 쉴랜드,parking,ja,dev,シルランド (쉴랜드) 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0074,DEV-0074-ko,2719004,고창 청농원,parking,ko,dev,고창 청농원 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0074,DEV-0074-en,2719004,고창 청농원,parking,en,dev,Gochang Blue Farm (고창 청농원) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0074,DEV-0074-ja,2719004,고창 청농원,parking,ja,dev,高敞清農園（고창 청농원） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0075,DEV-0075-ko,2732468,미르섬,parking,ko,dev,미르섬 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0075,DEV-0075-en,2732468,미르섬,parking,en,dev,Mireuseom Island (미르섬) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0075,DEV-0075-ja,2732468,미르섬,parking,ja,dev,ミル島（미르섬） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0076,DEV-0076-ko,2733962,수성동계곡,opening_hours,ko,dev,수성동계곡 운영 시간,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0076,DEV-0076-en,2733962,수성동계곡,opening_hours,en,dev,Suseongdonggyegok Valley (수성동계곡) opening hours,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0076,DEV-0076-ja,2733962,수성동계곡,opening_hours,ja,dev,水聲洞渓谷（수성동계곡） 営業時間,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0077,DEV-0077-ko,2769599,대청댐 전망대,parking,ko,dev,대청댐 전망대 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0077,DEV-0077-en,2769599,대청댐 전망대,parking,en,dev,Daecheong Dam Observatory (대청댐 전망대) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0077,DEV-0077-ja,2769599,대청댐 전망대,parking,ja,dev,大清ダム展望台（대청댐 전망대） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0078,DEV-0078-ko,2774063,객사길,opening_hours,ko,dev,객사길 운영 시간,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0078,DEV-0078-en,2774063,객사길,opening_hours,en,dev,Gaeksa-gil (객사길) opening hours,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0078,DEV-0078-ja,2774063,객사길,opening_hours,ja,dev,客舎道（객사길） 営業時間,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0079,DEV-0079-ko,2774063,객사길,parking,ko,dev,객사길 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0079,DEV-0079-en,2774063,객사길,parking,en,dev,Gaeksa-gil (객사길) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0079,DEV-0079-ja,2774063,객사길,parking,ja,dev,客舎道（객사길） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0080,DEV-0080-ko,2783148,국동항,parking,ko,dev,국동항 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0080,DEV-0080-en,2783148,국동항,parking,en,dev,Gukdonghang Port (국동항) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0080,DEV-0080-ja,2783148,국동항,parking,ja,dev,菊洞港（국동항） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0081,DEV-0081-ko,2902731,동탄센트럴파크,parking,ko,dev,동탄센트럴파크 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0081,DEV-0081-en,2902731,동탄센트럴파크,parking,en,dev,Dongtan Central Park (동탄센트럴파크) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0081,DEV-0081-ja,2902731,동탄센트럴파크,parking,ja,dev,東灘セントラルパーク（동탄센트럴파크） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0082,DEV-0082-ko,298095,구절사,parking,ko,dev,구절사 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0082,DEV-0082-en,298095,구절사,parking,en,dev,Gujeolsa Temple (구절사) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0082,DEV-0082-ja,298095,구절사,parking,ja,dev,亀截寺（구절사） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0083,DEV-0083-ko,304789,만어사,parking,ko,dev,만어사 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0083,DEV-0083-en,304789,만어사,parking,en,dev,Maneosa Temple (만어사) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0083,DEV-0083-ja,304789,만어사,parking,ja,dev,万魚寺（만어사） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0084,DEV-0084-ko,3072021,철원역사문화공원,holidays,ko,dev,철원역사문화공원 휴무일,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0084,DEV-0084-en,3072021,철원역사문화공원,holidays,en,dev,Cheorwon History and Culture Park (철원역사문화공원) closed days,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0084,DEV-0084-ja,3072021,철원역사문화공원,holidays,ja,dev,鉄原歴史文化公園（철원역사문화공원） 休業日,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0085,DEV-0085-ko,3072021,철원역사문화공원,parking,ko,dev,철원역사문화공원 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0085,DEV-0085-en,3072021,철원역사문화공원,parking,en,dev,Cheorwon History and Culture Park (철원역사문화공원) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0085,DEV-0085-ja,3072021,철원역사문화공원,parking,ja,dev,鉄原歴史文化公園（철원역사문화공원） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0086,DEV-0086-ko,407051,세미원,parking,ko,dev,세미원 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0086,DEV-0086-en,407051,세미원,parking,en,dev,Semiwon (세미원) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0086,DEV-0086-ja,407051,세미원,parking,ja,dev,洗美苑（세미원） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0087,DEV-0087-ko,584698,스파레이,opening_hours,ko,dev,스파레이 운영 시간,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0087,DEV-0087-en,584698,스파레이,opening_hours,en,dev,Spa Lei (스파레이) opening hours,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0087,DEV-0087-ja,584698,스파레이,opening_hours,ja,dev,スパレイ（스파레이） 営業時間,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0088,DEV-0088-ko,584698,스파레이,parking,ko,dev,스파레이 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0088,DEV-0088-en,584698,스파레이,parking,en,dev,Spa Lei (스파레이) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0088,DEV-0088-ja,584698,스파레이,parking,ja,dev,スパレイ（스파레이） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0089,DEV-0089-ko,613310,하피랜드,parking,ko,dev,하피랜드 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0089,DEV-0089-en,613310,하피랜드,parking,en,dev,Hapy Land (하피랜드) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0089,DEV-0089-ja,613310,하피랜드,parking,ja,dev,ハピランド（하피랜드） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0090,DEV-0090-ko,662637,강화해수랜드,parking,ko,dev,강화해수랜드 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0090,DEV-0090-en,662637,강화해수랜드,parking,en,dev,Ganghwa Haesoo Land (강화해수랜드) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0090,DEV-0090-ja,662637,강화해수랜드,parking,ja,dev,江華海水ランド（강화해수랜드） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0091,DEV-0091-ko,741109,카멜리아힐,parking,ko,dev,카멜리아힐 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0091,DEV-0091-en,741109,카멜리아힐,parking,en,dev,Camellia Hill (카멜리아힐) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0091,DEV-0091-ja,741109,카멜리아힐,parking,ja,dev,カメリアヒル（카멜리아힐） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0092,DEV-0092-ko,741658,한밭수목원,parking,ko,dev,한밭수목원 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0092,DEV-0092-en,741658,한밭수목원,parking,en,dev,Hanbat Arboretum (한밭수목원) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0092,DEV-0092-ja,741658,한밭수목원,parking,ja,dev,ハンバッ樹木園（한밭수목원） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0093,DEV-0093-ko,769761,다대포 꿈의 낙조분수,holidays,ko,dev,다대포 꿈의 낙조분수 휴무일,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0093,DEV-0093-en,769761,다대포 꿈의 낙조분수,holidays,en,dev,Dadaepo Sunset Fountain of Dreams (다대포 꿈의 낙조분수) closed days,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0093,DEV-0093-ja,769761,다대포 꿈의 낙조분수,holidays,ja,dev,多大浦夢の落照噴水（다대포 꿈의 낙조분수） 休業日,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0094,DEV-0094-ko,769761,다대포 꿈의 낙조분수,parking,ko,dev,다대포 꿈의 낙조분수 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0094,DEV-0094-en,769761,다대포 꿈의 낙조분수,parking,en,dev,Dadaepo Sunset Fountain of Dreams (다대포 꿈의 낙조분수) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0094,DEV-0094-ja,769761,다대포 꿈의 낙조분수,parking,ja,dev,多大浦夢の落照噴水（다대포 꿈의 낙조분수） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0095,DEV-0095-ko,970460,잠실한강공원,opening_hours,ko,dev,잠실한강공원 운영 시간,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0095,DEV-0095-en,970460,잠실한강공원,opening_hours,en,dev,Jamsil Hangang Park (잠실한강공원) opening hours,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0095,DEV-0095-ja,970460,잠실한강공원,opening_hours,ja,dev,蚕室漢江公園（잠실한강공원） 営業時間,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0096,DEV-0096-ko,970460,잠실한강공원,parking,ko,dev,잠실한강공원 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0096,DEV-0096-en,970460,잠실한강공원,parking,en,dev,Jamsil Hangang Park (잠실한강공원) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0096,DEV-0096-ja,970460,잠실한강공원,parking,ja,dev,蚕室漢江公園（잠실한강공원） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0097,DEV-0097-ko,971122,강화 아르미애월드,parking,ko,dev,강화 아르미애월드 주차 정보,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0097,DEV-0097-en,971122,강화 아르미애월드,parking,en,dev,Ganghwa Armiae World (강화 아르미애월드) parking information,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요
+DEV-0097,DEV-0097-ja,971122,강화 아르미애월드,parking,ja,dev,江華アルミエワールド（강화 아르미애월드） 駐車場 情報,PENDING,PENDING,,AI 작성 초안; 명칭 검색 기반; 의도·정답·언어별 정보 보유 검토 필요

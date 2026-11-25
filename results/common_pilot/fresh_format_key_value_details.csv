@@ -1,0 +1,31 @@
+﻿query_id,place_id,intent_id,query,candidate_count,top1_place_id,top1_title,rank_before,relevance_review,language_review
+FRESH-001-ko,894145,FRESH-001,대구의 오래된 마을에서 한옥 숙박을 체험할 수 있는 곳,138,894145,명품옻골 1616 협동조합,1,PENDING,PENDING
+FRESH-001-en,894145,FRESH-001,A traditional house stay in a historic village in Daegu,138,894145,Myeongpum Otgol 1616 Cooperative Society (명품옻골 1616 협동조합),1,PENDING,PENDING
+FRESH-001-ja,894145,FRESH-001,大邱の歴史ある村で韓屋宿泊を体験できる場所,138,894145,名品オッコル1616協同組合（명품옻골 1616 협동조합）,1,PENDING,PENDING
+FRESH-002-ko,127641,FRESH-002,대전에서 동물원과 놀이공원을 함께 즐길 수 있는 곳의 입장료,138,127641,대전오월드,1,PENDING,PENDING
+FRESH-002-en,127641,FRESH-002,Admission fees for a Daejeon park combining a zoo and amusement rides,138,127641,Daejeon O-World (대전오월드),1,PENDING,PENDING
+FRESH-002-ja,127641,FRESH-002,大田で動物園と遊園地を楽しめる施設の入場料金,138,127641,大田O-WORLD（대전오월드）,1,PENDING,PENDING
+FRESH-003-ko,125909,FRESH-003,청주에 있는 조선시대 지방 교육기관의 관람시간,138,125909,청주향교,1,PENDING,PENDING
+FRESH-003-en,125909,FRESH-003,Visiting hours for a Joseon-era local educational institution in Cheongju,138,1621391,Gyeongjuhyanggyo Local Confucian School (경주향교),2,PENDING,PENDING
+FRESH-003-ja,125909,FRESH-003,清州にある朝鮮時代の地方教育機関の観覧時間,138,125909,清州郷校（청주향교）,1,PENDING,PENDING
+FRESH-004-ko,1928731,FRESH-004,전통 장류의 제조와 문화를 알아볼 수 있는 테마공원,138,1928731,뒤웅박고을,1,PENDING,PENDING
+FRESH-004-en,1928731,FRESH-004,A theme park where visitors can learn about traditional fermented sauces,138,1928731,Duiungbak Village (뒤웅박고을),1,PENDING,PENDING
+FRESH-004-ja,1928731,FRESH-004,伝統的な発酵調味料の製造と文化を知ることができるテーマ公園,138,1928731,テゥィウンバク村（뒤웅박고을）,1,PENDING,PENDING
+FRESH-005-ko,2764342,FRESH-005,이천에서 온천과 가족탕을 이용할 수 있는 시설의 운영시간,138,2764342,이천설봉온천랜드,1,PENDING,PENDING
+FRESH-005-en,2764342,FRESH-005,Opening hours for a hot spring facility in Icheon with private family baths,138,2764342,Seolbong Oncheon Land (이천설봉온천랜드),1,PENDING,PENDING
+FRESH-005-ja,2764342,FRESH-005,利川で温泉と家族風呂を利用できる施設の営業時間,138,2764342,利川ソルボン温泉ランド（이천설봉온천랜드）,1,PENDING,PENDING
+FRESH-006-ko,2715684,FRESH-006,정읍 내장호 주변의 단풍나무 생태공원 주차 정보,138,2715684,내장산 단풍생태공원,1,PENDING,PENDING
+FRESH-006-en,2715684,FRESH-006,Parking at a maple tree ecological park near Naejang Lake in Jeongeup,138,2715684,Naejangsan Maple Ecology Park (내장산 단풍생태공원),1,PENDING,PENDING
+FRESH-006-ja,2715684,FRESH-006,井邑の内蔵湖周辺にあるカエデの生態公園の駐車情報,138,2715684,内蔵山紅葉生態公園（내장산 단풍생태공원）,1,PENDING,PENDING
+FRESH-007-ko,125807,FRESH-007,횡성에 있는 천주교 성당의 휴무일,138,125807,풍수원성당,1,PENDING,PENDING
+FRESH-007-en,125807,FRESH-007,Closed days for a Catholic church in Hoengseong,138,129683,Yongsomak Catholic Church (용소막성당),3,PENDING,PENDING
+FRESH-007-ja,125807,FRESH-007,横城にあるカトリック聖堂の休業日,138,125807,横城 豊水院天主教会（豊水院聖堂）（횡성 풍수원천주교회（풍수원성당））,1,PENDING,PENDING
+FRESH-008-ko,126738,FRESH-008,양양에서 등대와 방파제를 볼 수 있는 항구 주차 정보,138,126738,남애항,1,PENDING,PENDING
+FRESH-008-en,126738,FRESH-008,Parking at a harbor in Yangyang with lighthouses and a breakwater,138,126738,Namaehang Port (남애항),1,PENDING,PENDING
+FRESH-008-ja,126738,FRESH-008,襄陽で灯台と防波堤を見られる港の駐車情報,138,126738,南涯港（남애항）,1,PENDING,PENDING
+FRESH-009-ko,2831210,FRESH-009,비무장지대의 역사와 생태를 실감 콘텐츠로 체험하는 실내 공간,138,2831210,DMZ 생생누리,1,PENDING,PENDING
+FRESH-009-en,2831210,FRESH-009,An indoor space with immersive exhibits about the history and ecology of the DMZ,138,2831210,DMZ LIVE Experience Hall (DMZ 생생누리),1,PENDING,PENDING
+FRESH-009-ja,2831210,FRESH-009,非武装地帯の歴史と生態を体感型コンテンツで学べる屋内施設,138,126498,ロッテワールドアドベンチャー（롯데월드 어드벤처）,4,PENDING,PENDING
+FRESH-010-ko,2027193,FRESH-010,광주 도심 속 수행 사찰의 운영시간,138,2027193,무각사,1,PENDING,PENDING
+FRESH-010-en,2027193,FRESH-010,Opening hours for a Buddhist temple in central Gwangju,138,2027193,Mugaksa Temple (무각사),1,PENDING,PENDING
+FRESH-010-ja,2027193,FRESH-010,光州の市街地にある修行寺院の営業時間,138,2027193,無覚寺（무각사）,1,PENDING,PENDING

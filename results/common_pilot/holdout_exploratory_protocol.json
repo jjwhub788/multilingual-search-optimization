@@ -1,0 +1,24 @@
+{
+  "status": "EXPLORATORY_NOT_INDEPENDENT",
+  "created_at_utc": "2026-11-24T12:57:25.603422+00:00",
+  "scope": "held-out places, AI-generated queries authored after developer results reviewed; not blind or human-validated",
+  "model": "BAAI/bge-m3",
+  "max_seq_length": 2048,
+  "budget_fact_language_items": 30,
+  "candidate_documents": "138 same-language TourAPI; only holdout-place documents are changed for holdout comparison",
+  "policies": [
+    "baseline",
+    "random seeds 0-9",
+    "shortage: number of missing or partial fields per document; fact-id tie break",
+    "frequency_deficit: fixed development field prevalence times 1 + deficit/5; sha256 seed42 tie break"
+  ],
+  "query_target_ids_used_to_select_enrichment": false,
+  "selection_bias": "heldout places selected via field-coverage adjustment before query generation",
+  "inputs": {
+    "data/processed/common_place_splits_balanced.csv": "5d2668a35af6135746b304db861487c18cfd3b17a388fcee4ace37671fb72257",
+    "results/common_pilot/dev_semantic_expanded_review.csv": "11d4c695c4a8ae0dcadea575a80e113edda4116c167d5092c9e0a15bab8c0fb6",
+    "src/evaluate_common_priority_transferable.py": "d62accdf796b5def3ec9cfbcdf82b2d71bcfc59202a9ab98b95b440b8617535c",
+    "data/processed/common_enrichment_item_pool.csv": "877b43e95fdf3a9ae92529a41eba890ccdb50bc00f70fdd2ff35b304be5a40d4"
+  },
+  "notes": "Holdout query authors have seen development results; query relevance and other relevant documents not human reviewed. Official preregistration is not claimed."
+}

@@ -1,0 +1,21 @@
+{
+  "status": "DEVELOPMENT_EXPLORATORY",
+  "corpus": "138 same-language TourAPI documents; unselected documents unchanged",
+  "selection": "fixed 30 shortage-priority fact-language items from existing allocation; same facts in all three conditions",
+  "field_max": "encode each field_text separately; document score is max of base document cosine and each field cosine; changes retrieval scoring as well as text structure",
+  "query_set": "57 AI-drafted development queries; selected by direct enrichment availability and already observed results; no independence",
+  "budget_unit": "30 facts, not equal tokens or costs",
+  "model": "BAAI/bge-m3",
+  "model_revision": "5617a9f61b028005a4858fdac845db406aefb181",
+  "max_seq_length": 2048,
+  "device": "cpu",
+  "truncated_inputs": 0,
+  "hashes": {
+    "data/processed/common_dataset.csv": "98379e1aaacc17c197372a5149a58ada7de0502267bc316d39c0c7666ff98327",
+    "data/processed/common_enrichment_item_pool.csv": "877b43e95fdf3a9ae92529a41eba890ccdb50bc00f70fdd2ff35b304be5a40d4",
+    "data/processed/common_place_splits_balanced.csv": "5d2668a35af6135746b304db861487c18cfd3b17a388fcee4ace37671fb72257",
+    "results/common_pilot/main_dev_direct_queries.csv": "e475edfe7a0c0c8d5674a2df88cdc5c3592a83b441a9eb0a8f15ef18efb19359",
+    "results/common_pilot/main_dev_direct_priority_allocations.csv": "bcab6b389b6bec58e51f674ec946b47028feb783dc3448db1136fd27efc65bc7"
+  },
+  "limitations": "labels require independent human review; multiple relevant places unjudged; document-length and max score effects; results not causal or independently generalizable"
+}

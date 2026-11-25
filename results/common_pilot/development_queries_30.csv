@@ -1,0 +1,31 @@
+﻿intent_id,place_id,title_ko,language,query,source,review_status
+B04-1,2713440,순창 쉴랜드,ko,순창 웰니스 체험,existing_development_queries,PENDING
+B04-1,2713440,순창 쉴랜드,en,Sunchang wellness activities,existing_development_queries,PENDING
+B04-1,2713440,순창 쉴랜드,ja,淳昌 ウェルネス 体験,existing_development_queries,PENDING
+B04-2,2713440,순창 쉴랜드,ko,순창 편백숲 산책 명상,existing_development_queries,PENDING
+B04-2,2713440,순창 쉴랜드,en,Sunchang cypress forest walk meditation,existing_development_queries,PENDING
+B04-2,2713440,순창 쉴랜드,ja,淳昌 ヒノキ林 散策 瞑想,existing_development_queries,PENDING
+B10-1,2605528,경암동 철길마을,ko,군산 레트로 철도 여행,existing_development_queries,PENDING
+B10-1,2605528,경암동 철길마을,en,Gunsan retro railway trip,existing_development_queries,PENDING
+B10-1,2605528,경암동 철길마을,ja,群山 レトロ 鉄道 旅行,existing_development_queries,PENDING
+B10-2,2605528,경암동 철길마을,ko,군산 철길 옛날 교복 체험,existing_development_queries,PENDING
+B10-2,2605528,경암동 철길마을,en,Gunsan railway vintage school uniform experience,existing_development_queries,PENDING
+B10-2,2605528,경암동 철길마을,ja,群山 線路 昔の制服 体験,existing_development_queries,PENDING
+B20-1,2719004,고창 청농원,ko,고창 라벤더 꽃밭,existing_development_queries,PENDING
+B20-1,2719004,고창 청농원,en,Gochang lavender fields,existing_development_queries,PENDING
+B20-1,2719004,고창 청농원,ja,高敞 ラベンダー畑,existing_development_queries,PENDING
+B20-2,2719004,고창 청농원,ko,고창 한옥 꽃정원 카페,existing_development_queries,PENDING
+B20-2,2719004,고창 청농원,en,Gochang hanok flower garden cafe,existing_development_queries,PENDING
+B20-2,2719004,고창 청농원,ja,高敞 韓屋 花庭園 カフェ,existing_development_queries,PENDING
+B22-1,127539,광주패밀리랜드,ko,광주 가족 놀이공원,existing_development_queries,PENDING
+B22-1,127539,광주패밀리랜드,en,Gwangju family amusement park,existing_development_queries,PENDING
+B22-1,127539,광주패밀리랜드,ja,光州 家族 遊園地,existing_development_queries,PENDING
+B22-2,127539,광주패밀리랜드,ko,광주 아이랑 눈썰매,existing_development_queries,PENDING
+B22-2,127539,광주패밀리랜드,en,Gwangju snow sledding with kids,existing_development_queries,PENDING
+B22-2,127539,광주패밀리랜드,ja,光州 子連れ 雪そり,existing_development_queries,PENDING
+B26-1,127621,남망산 조각공원,ko,통영 야외 조각 전시,existing_development_queries,PENDING
+B26-1,127621,남망산 조각공원,en,Tongyeong outdoor sculptures,existing_development_queries,PENDING
+B26-1,127621,남망산 조각공원,ja,統営 屋外彫刻 展示,existing_development_queries,PENDING
+B26-2,127621,남망산 조각공원,ko,통영 바다 전망 야외 미술,existing_development_queries,PENDING
+B26-2,127621,남망산 조각공원,en,Tongyeong outdoor art sea view,existing_development_queries,PENDING
+B26-2,127621,남망산 조각공원,ja,統営 海の眺め 屋外アート,existing_development_queries,PENDING

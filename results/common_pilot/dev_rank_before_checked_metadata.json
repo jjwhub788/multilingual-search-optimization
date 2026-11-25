@@ -1,0 +1,22 @@
+{
+  "model": "BAAI/bge-m3",
+  "requested_revision": null,
+  "device": "cpu",
+  "max_seq_length": 2048,
+  "document_input": "title + newline + description; no address",
+  "candidate_scope": "138 same-language TourAPI documents, including test places as unchanged distractors",
+  "query_set": "name-based development drafts; relevance and language review pending",
+  "document_count": 414,
+  "query_count": 291,
+  "truncated_documents": 0,
+  "truncated_queries": 0,
+  "input_sha256": {
+    "data/processed/common_dataset.csv": "98379e1aaacc17c197372a5149a58ada7de0502267bc316d39c0c7666ff98327",
+    "results/common_pilot/dev_query_draft.csv": "0206c3924ed702af60fd5ed809d3eb6b2e5c7a5f10e3bbbb66af3921c63b06a4",
+    "data/processed/common_place_splits_balanced.csv": "5d2668a35af6135746b304db861487c18cfd3b17a388fcee4ace37671fb72257"
+  },
+  "torch_version": "2.8.0",
+  "sentence_transformers_version": "5.1.2",
+  "rank_tie_break": "place_id ascending",
+  "note": "Development only; not independent gold evaluation."
+}

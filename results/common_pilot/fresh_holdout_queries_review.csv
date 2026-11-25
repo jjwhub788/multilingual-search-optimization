@@ -1,0 +1,31 @@
+﻿intent_id,query_id,place_id,title_ko,field,language,split,query,feature_evidence,source,relevance_review,language_review,other_relevant_places,review_note
+FRESH-001,FRESH-001-ko,894145,명품옻골 1616 협동조합,experience,ko,test,대구의 오래된 마을에서 한옥 숙박을 체험할 수 있는 곳,한옥스테이,TourAPI 한국어 원본 설명,PENDING,PENDING,,AI 초안; 실제 해당 정보 확인 및 복수 정답·언어 검토 필요
+FRESH-001,FRESH-001-en,894145,명품옻골 1616 협동조합,experience,en,test,A traditional house stay in a historic village in Daegu,한옥스테이,TourAPI 한국어 원본 설명,PENDING,PENDING,,AI 초안; 실제 해당 정보 확인 및 복수 정답·언어 검토 필요
+FRESH-001,FRESH-001-ja,894145,명품옻골 1616 협동조합,experience,ja,test,大邱の歴史ある村で韓屋宿泊を体験できる場所,한옥스테이,TourAPI 한국어 원본 설명,PENDING,PENDING,,AI 초안; 실제 해당 정보 확인 및 복수 정답·언어 검토 필요
+FRESH-002,FRESH-002-ko,127641,대전오월드,admission_fee,ko,test,대전에서 동물원과 놀이공원을 함께 즐길 수 있는 곳의 입장료,주랜드,TourAPI 한국어 원본 설명,PENDING,PENDING,,AI 초안; 실제 해당 정보 확인 및 복수 정답·언어 검토 필요
+FRESH-002,FRESH-002-en,127641,대전오월드,admission_fee,en,test,Admission fees for a Daejeon park combining a zoo and amusement rides,주랜드,TourAPI 한국어 원본 설명,PENDING,PENDING,,AI 초안; 실제 해당 정보 확인 및 복수 정답·언어 검토 필요
+FRESH-002,FRESH-002-ja,127641,대전오월드,admission_fee,ja,test,大田で動物園と遊園地を楽しめる施設の入場料金,주랜드,TourAPI 한국어 원본 설명,PENDING,PENDING,,AI 초안; 실제 해당 정보 확인 및 복수 정답·언어 검토 필요
+FRESH-003,FRESH-003-ko,125909,청주향교,opening_hours,ko,test,청주에 있는 조선시대 지방 교육기관의 관람시간,지방백성의 교육,TourAPI 한국어 원본 설명,PENDING,PENDING,,AI 초안; 실제 해당 정보 확인 및 복수 정답·언어 검토 필요
+FRESH-003,FRESH-003-en,125909,청주향교,opening_hours,en,test,Visiting hours for a Joseon-era local educational institution in Cheongju,지방백성의 교육,TourAPI 한국어 원본 설명,PENDING,PENDING,,AI 초안; 실제 해당 정보 확인 및 복수 정답·언어 검토 필요
+FRESH-003,FRESH-003-ja,125909,청주향교,opening_hours,ja,test,清州にある朝鮮時代の地方教育機関の観覧時間,지방백성의 교육,TourAPI 한국어 원본 설명,PENDING,PENDING,,AI 초안; 실제 해당 정보 확인 및 복수 정답·언어 검토 필요
+FRESH-004,FRESH-004-ko,1928731,뒤웅박고을,experience,ko,test,전통 장류의 제조와 문화를 알아볼 수 있는 테마공원,전통 장류 테마공원,TourAPI 한국어 원본 설명,PENDING,PENDING,,AI 초안; 실제 해당 정보 확인 및 복수 정답·언어 검토 필요
+FRESH-004,FRESH-004-en,1928731,뒤웅박고을,experience,en,test,A theme park where visitors can learn about traditional fermented sauces,전통 장류 테마공원,TourAPI 한국어 원본 설명,PENDING,PENDING,,AI 초안; 실제 해당 정보 확인 및 복수 정답·언어 검토 필요
+FRESH-004,FRESH-004-ja,1928731,뒤웅박고을,experience,ja,test,伝統的な発酵調味料の製造と文化を知ることができるテーマ公園,전통 장류 테마공원,TourAPI 한국어 원본 설명,PENDING,PENDING,,AI 초안; 실제 해당 정보 확인 및 복수 정답·언어 검토 필요
+FRESH-005,FRESH-005-ko,2764342,이천설봉온천랜드,opening_hours,ko,test,이천에서 온천과 가족탕을 이용할 수 있는 시설의 운영시간,가족탕,TourAPI 한국어 원본 설명,PENDING,PENDING,,AI 초안; 실제 해당 정보 확인 및 복수 정답·언어 검토 필요
+FRESH-005,FRESH-005-en,2764342,이천설봉온천랜드,opening_hours,en,test,Opening hours for a hot spring facility in Icheon with private family baths,가족탕,TourAPI 한국어 원본 설명,PENDING,PENDING,,AI 초안; 실제 해당 정보 확인 및 복수 정답·언어 검토 필요
+FRESH-005,FRESH-005-ja,2764342,이천설봉온천랜드,opening_hours,ja,test,利川で温泉と家族風呂を利用できる施設の営業時間,가족탕,TourAPI 한국어 원본 설명,PENDING,PENDING,,AI 초안; 실제 해당 정보 확인 및 복수 정답·언어 검토 필요
+FRESH-006,FRESH-006-ko,2715684,내장산 단풍생태공원,parking,ko,test,정읍 내장호 주변의 단풍나무 생태공원 주차 정보,내장호 주변,TourAPI 한국어 원본 설명,PENDING,PENDING,,AI 초안; 실제 해당 정보 확인 및 복수 정답·언어 검토 필요
+FRESH-006,FRESH-006-en,2715684,내장산 단풍생태공원,parking,en,test,Parking at a maple tree ecological park near Naejang Lake in Jeongeup,내장호 주변,TourAPI 한국어 원본 설명,PENDING,PENDING,,AI 초안; 실제 해당 정보 확인 및 복수 정답·언어 검토 필요
+FRESH-006,FRESH-006-ja,2715684,내장산 단풍생태공원,parking,ja,test,井邑の内蔵湖周辺にあるカエデの生態公園の駐車情報,내장호 주변,TourAPI 한국어 원본 설명,PENDING,PENDING,,AI 초안; 실제 해당 정보 확인 및 복수 정답·언어 검토 필요
+FRESH-007,FRESH-007-ko,125807,풍수원성당,holidays,ko,test,횡성에 있는 천주교 성당의 휴무일,횡성,TourAPI 한국어 원본 설명,PENDING,PENDING,,AI 초안; 실제 해당 정보 확인 및 복수 정답·언어 검토 필요
+FRESH-007,FRESH-007-en,125807,풍수원성당,holidays,en,test,Closed days for a Catholic church in Hoengseong,횡성,TourAPI 한국어 원본 설명,PENDING,PENDING,,AI 초안; 실제 해당 정보 확인 및 복수 정답·언어 검토 필요
+FRESH-007,FRESH-007-ja,125807,풍수원성당,holidays,ja,test,横城にあるカトリック聖堂の休業日,횡성,TourAPI 한국어 원본 설명,PENDING,PENDING,,AI 초안; 실제 해당 정보 확인 및 복수 정답·언어 검토 필요
+FRESH-008,FRESH-008-ko,126738,남애항,parking,ko,test,양양에서 등대와 방파제를 볼 수 있는 항구 주차 정보,양양,TourAPI 한국어 원본 설명,PENDING,PENDING,,AI 초안; 실제 해당 정보 확인 및 복수 정답·언어 검토 필요
+FRESH-008,FRESH-008-en,126738,남애항,parking,en,test,Parking at a harbor in Yangyang with lighthouses and a breakwater,양양,TourAPI 한국어 원본 설명,PENDING,PENDING,,AI 초안; 실제 해당 정보 확인 및 복수 정답·언어 검토 필요
+FRESH-008,FRESH-008-ja,126738,남애항,parking,ja,test,襄陽で灯台と防波堤を見られる港の駐車情報,양양,TourAPI 한국어 원본 설명,PENDING,PENDING,,AI 초안; 실제 해당 정보 확인 및 복수 정답·언어 검토 필요
+FRESH-009,FRESH-009-ko,2831210,DMZ 생생누리,experience,ko,test,비무장지대의 역사와 생태를 실감 콘텐츠로 체험하는 실내 공간,실감미디어 콘텐츠,TourAPI 한국어 원본 설명,PENDING,PENDING,,AI 초안; 실제 해당 정보 확인 및 복수 정답·언어 검토 필요
+FRESH-009,FRESH-009-en,2831210,DMZ 생생누리,experience,en,test,An indoor space with immersive exhibits about the history and ecology of the DMZ,실감미디어 콘텐츠,TourAPI 한국어 원본 설명,PENDING,PENDING,,AI 초안; 실제 해당 정보 확인 및 복수 정답·언어 검토 필요
+FRESH-009,FRESH-009-ja,2831210,DMZ 생생누리,experience,ja,test,非武装地帯の歴史と生態を体感型コンテンツで学べる屋内施設,실감미디어 콘텐츠,TourAPI 한국어 원본 설명,PENDING,PENDING,,AI 초안; 실제 해당 정보 확인 및 복수 정답·언어 검토 필요
+FRESH-010,FRESH-010-ko,2027193,무각사,opening_hours,ko,test,광주 도심 속 수행 사찰의 운영시간,도심 속의 수행 사찰,TourAPI 한국어 원본 설명,PENDING,PENDING,,AI 초안; 실제 해당 정보 확인 및 복수 정답·언어 검토 필요
+FRESH-010,FRESH-010-en,2027193,무각사,opening_hours,en,test,Opening hours for a Buddhist temple in central Gwangju,도심 속의 수행 사찰,TourAPI 한국어 원본 설명,PENDING,PENDING,,AI 초안; 실제 해당 정보 확인 및 복수 정답·언어 검토 필요
+FRESH-010,FRESH-010-ja,2027193,무각사,opening_hours,ja,test,光州の市街地にある修行寺院の営業時間,도심 속의 수행 사찰,TourAPI 한국어 원본 설명,PENDING,PENDING,,AI 초안; 실제 해당 정보 확인 및 복수 정답·언어 검토 필요
