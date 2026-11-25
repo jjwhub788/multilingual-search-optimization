@@ -222,11 +222,21 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# Project datasets
-data/
+# Project datasets and API collection scripts remain local.
+# Only the offline data-preparation source files are included in Git.
+/data/*
+!/data/raw/
+/data/raw/*
+!/data/raw/tourapi/
+/data/raw/tourapi/*
+!/data/raw/tourapi/preprocess_tourapi.py
+!/data/raw/tourapi/match_tourapi.py
+!/data/raw/tourapi/verify_tourapi_matches.py
 
 # Mac temporary files
 .DS_Store
 
 # Additional environment files
 .env.*
+/results/*
+!/results/.gitkeep
