@@ -1,0 +1,13 @@
+﻿query_id,intent_id,place_id,title_ko,language,field,query,rank_baseline,rank_natural,rank_key_value,review_status
+SAMPLE-001-ko,SAMPLE-001,2613450,깊은산속 옹달샘,ko,parking,휴식을 위한 명상 프로그램이 있고 주차할 수 있는 곳,1,1,1,PENDING
+SAMPLE-001-en,SAMPLE-001,2613450,깊은산속 옹달샘,en,parking,A meditation retreat with parking,2,2,2,PENDING
+SAMPLE-001-ja,SAMPLE-001,2613450,깊은산속 옹달샘,ja,parking,瞑想プログラムと駐車場のある場所,1,1,1,PENDING
+SAMPLE-002-ko,SAMPLE-002,741109,카멜리아힐,ko,parking,동백꽃을 볼 수 있고 주차할 수 있는 수목원,1,1,2,PENDING
+SAMPLE-002-en,SAMPLE-002,741109,카멜리아힐,en,parking,A camellia garden with parking,1,1,1,PENDING
+SAMPLE-002-ja,SAMPLE-002,741109,카멜리아힐,ja,parking,ツバキが見られて駐車場のある樹木園,25,19,17,PENDING
+SAMPLE-003-ko,SAMPLE-003,126346,개암사,ko,experience,부안에서 템플스테이를 할 수 있는 사찰,24,6,6,PENDING
+SAMPLE-003-en,SAMPLE-003,126346,개암사,en,experience,A temple in Buan offering a temple stay,7,3,4,PENDING
+SAMPLE-003-ja,SAMPLE-003,126346,개암사,ja,experience,扶安でテンプルステイができる寺院,15,1,4,PENDING
+SAMPLE-004-ko,SAMPLE-004,126508,경복궁,ko,holidays,화요일에 쉬는 조선 시대 궁궐,1,1,1,PENDING
+SAMPLE-004-en,SAMPLE-004,126508,경복궁,en,holidays,A Joseon-era palace closed on Tuesdays,1,1,1,PENDING
+SAMPLE-004-ja,SAMPLE-004,126508,경복궁,ja,holidays,火曜日が休みの朝鮮時代の宮殿,1,1,1,PENDING

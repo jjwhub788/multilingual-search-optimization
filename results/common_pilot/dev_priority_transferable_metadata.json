@@ -1,0 +1,33 @@
+{
+  "status": "EXPLORATORY_AI_QUERY_DRAFTS_NOT_REVIEWED",
+  "seed": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "budget_unit": "equal count of fact-language items; token cost is not equal",
+  "budget": 30,
+  "candidate_scope": "138 same-language original documents; only development documents changed",
+  "frequency_deficit": "development query field frequency multiplied by (1 + missing_or_partial_fields/5), deterministic hash tie-break; uses no query target identity",
+  "shortage": "count missing/partial fields in each place-language document, using AI-reviewed gap table",
+  "random_trials": 10,
+  "max_seq_length": 2048,
+  "model_revision_snapshot": "5617a9f61b028005a4858fdac845db406aefb181",
+  "input_sha256": {
+    "data/processed/common_dataset.csv": "98379e1aaacc17c197372a5149a58ada7de0502267bc316d39c0c7666ff98327",
+    "data/processed/common_enrichment_item_pool.csv": "877b43e95fdf3a9ae92529a41eba890ccdb50bc00f70fdd2ff35b304be5a40d4",
+    "data/processed/common_gap_review_final.csv": "bb225d957bce8e8e7e7653fa8ad8e5b800bfd42d27109bda21fc1eda8a8f607f",
+    "data/processed/common_place_splits_balanced.csv": "5d2668a35af6135746b304db861487c18cfd3b17a388fcee4ace37671fb72257",
+    "results/common_pilot/dev_semantic_expanded_review.csv": "11d4c695c4a8ae0dcadea575a80e113edda4116c167d5092c9e0a15bab8c0fb6"
+  },
+  "truncated_documents_including_variants": 0,
+  "truncated_queries": 0,
+  "warning": "No statistical claim; relevance, language, and facts require human review; multiple relevant places possible; independent test queries not used."
+}

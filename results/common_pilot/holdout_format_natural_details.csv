@@ -1,0 +1,46 @@
+﻿query_id,place_id,intent_id,query,candidate_count,top1_place_id,top1_title,rank_before,relevance_review,language_review
+TEST-EXPL-001-ko,2718685,TEST-EXPL-001,제천 금수산에서 숲 치유 프로그램을 운영하는 곳의 이용시간,138,2718685,국립제천치유의숲,1,PENDING,PENDING
+TEST-EXPL-001-en,2718685,TEST-EXPL-001,Opening hours for a forest therapy center near Geumsusan in Jecheon,138,2718685,"National Center for Forest Therapy, Jecheon (국립제천치유의숲)",1,PENDING,PENDING
+TEST-EXPL-001-ja,2718685,TEST-EXPL-001,堤川の錦繡山で森林療法プログラムを行う施設の営業時間,138,2718685,国立チェチョン(堤川)癒しの森 (국립제천치유의숲),1,PENDING,PENDING
+TEST-EXPL-002-ko,2447115,TEST-EXPL-002,백두대간의 산림 치유 시설 주차 정보,138,2447115,국립산림치유원,1,PENDING,PENDING
+TEST-EXPL-002-en,2447115,TEST-EXPL-002,Parking information for a forest therapy facility in the Baekdudaegan mountains,138,2447115,National Center for Forest Therapy (국립산림치유원),1,PENDING,PENDING
+TEST-EXPL-002-ja,2447115,TEST-EXPL-002,白頭大幹の森林療養施設の駐車情報,138,2555756,国立テウンサン(大雲山)癒しの森 (국립대운산치유의숲),2,PENDING,PENDING
+TEST-EXPL-003-ko,2670558,TEST-EXPL-003,양주에서 천일홍 꽃 축제가 열리는 농원 이용시간,138,2670558,나리농원,1,PENDING,PENDING
+TEST-EXPL-003-en,2670558,TEST-EXPL-003,Opening hours for a flower garden in Yangju known for its globe amaranth festival,138,126668,The Garden of Morning Calm (아침고요수목원),2,PENDING,PENDING
+TEST-EXPL-003-ja,2670558,TEST-EXPL-003,楊州でセンニチコウの花祭りが開かれる農園の営業時間,138,2670558,ナリ農園（나리농원）,1,PENDING,PENDING
+TEST-EXPL-004-ko,2638475,TEST-EXPL-004,한강대교 중간에 있는 음악 문화공간 주차 정보,138,970460,잠실한강공원,2,PENDING,PENDING
+TEST-EXPL-004-en,2638475,TEST-EXPL-004,Parking at the music and culture space in the middle of Hangang Bridge,138,127859,Nanji Hangang Park (난지한강공원),7,PENDING,PENDING
+TEST-EXPL-004-ja,2638475,TEST-EXPL-004,漢江大橋の中央にある音楽文化空間の駐車情報,138,1059479,汝矣島漢江公園（여의도한강공원）,13,PENDING,PENDING
+TEST-EXPL-005-ko,2500687,TEST-EXPL-005,팔당호 주변 수변 생태공원 주차 정보,138,2500687,다산생태공원,1,PENDING,PENDING
+TEST-EXPL-005-en,2500687,TEST-EXPL-005,Parking information for a waterside ecological park near Paldang Lake,138,127859,Nanji Hangang Park (난지한강공원),4,PENDING,PENDING
+TEST-EXPL-005-ja,2500687,TEST-EXPL-005,八堂湖周辺にある水辺の生態公園の駐車情報,138,129443,光州湖湖水生態園（광주호 호수생태원）,3,PENDING,PENDING
+TEST-EXPL-006-ko,126498,TEST-EXPL-006,석촌호수의 실내외 테마파크 입장료,138,126498,롯데월드 어드벤처,1,PENDING,PENDING
+TEST-EXPL-006-en,126498,TEST-EXPL-006,Admission fee for the indoor and outdoor theme park by Seokchon Lake,138,126498,Lotte World (롯데월드 어드벤처),1,PENDING,PENDING
+TEST-EXPL-006-ja,126498,TEST-EXPL-006,石村湖にある屋内外テーマパークの入場料金,138,126498,ロッテワールドアドベンチャー（롯데월드 어드벤처）,1,PENDING,PENDING
+TEST-EXPL-007-ko,1329201,TEST-EXPL-007,제주의 돌과 바람을 주제로 한 미로공원 이용시간,138,1329201,메이즈랜드,1,PENDING,PENDING
+TEST-EXPL-007-en,1329201,TEST-EXPL-007,Opening hours for a Jeju maze park themed around stone and wind,138,1329201,Maze Museum (메이즈랜드),1,PENDING,PENDING
+TEST-EXPL-007-ja,1329201,TEST-EXPL-007,済州の石と風をテーマにした迷路公園の営業時間,138,1329201,メイズランド（메이즈랜드）,1,PENDING,PENDING
+TEST-EXPL-008-ko,2555756,TEST-EXPL-008,대운산 계곡에 있는 산림 치유 시설 주차 정보,138,2555756,국립대운산치유의숲,1,PENDING,PENDING
+TEST-EXPL-008-en,2555756,TEST-EXPL-008,Parking information for the forest therapy facility in the Daeunsan valley,138,2555756,"National Center for Forest Therapy, Daeunsan (국립대운산치유의숲)",1,PENDING,PENDING
+TEST-EXPL-008-ja,2555756,TEST-EXPL-008,大雲山の渓谷にある森林療養施設の駐車情報,138,2555756,国立テウンサン(大雲山)癒しの森 (국립대운산치유의숲),1,PENDING,PENDING
+TEST-EXPL-009-ko,126581,TEST-EXPL-009,거제의 바다로 둘러싸인 섬 식물공원 입장료,138,126581,외도 보타니아,1,PENDING,PENDING
+TEST-EXPL-009-en,126581,TEST-EXPL-009,Admission fee for an island botanical garden surrounded by the sea in Geoje,138,126581,Oedo-Botania (외도 보타니아),1,PENDING,PENDING
+TEST-EXPL-009-ja,126581,TEST-EXPL-009,巨済の海に囲まれた島の植物公園の入場料金,138,126668,アチムゴヨ樹木園（아침고요수목원）,2,PENDING,PENDING
+TEST-EXPL-010-ko,2743288,TEST-EXPL-010,선유도에서 고군산군도를 도는 유람선 운영시간,138,2743288,군산선유도유람선,1,PENDING,PENDING
+TEST-EXPL-010-en,2743288,TEST-EXPL-010,Operating hours for a sightseeing cruise from Seonyudo around the Gogunsan islands,138,2743288,Gunsan Seonyudo Cruise (군산선유도유람선),1,PENDING,PENDING
+TEST-EXPL-010-ja,2743288,TEST-EXPL-010,仙遊島から古群山群島を巡る遊覧船の運航時間,138,2743288,群山仙遊島遊覧船（군산선유도유람선）,1,PENDING,PENDING
+TEST-EXPL-011-ko,128637,TEST-EXPL-011,경주에 통일신라시대 삼층석탑 두 기가 남은 절터 주차 정보,138,128637,경주 감은사지,1,PENDING,PENDING
+TEST-EXPL-011-en,128637,TEST-EXPL-011,Parking at a temple site in Gyeongju with two Unified Silla three-story pagodas,138,128637,Gameunsaji Temple Site (경주 감은사지),1,PENDING,PENDING
+TEST-EXPL-011-ja,128637,TEST-EXPL-011,慶州の統一新羅時代の三重石塔が二基残る寺跡の駐車情報,138,128637,慶州 感恩寺址（경주 감은사지）,1,PENDING,PENDING
+TEST-EXPL-012-ko,125891,TEST-EXPL-012,계룡산 국립공원 사찰의 체험 프로그램,138,2718685,국립제천치유의숲,2,PENDING,PENDING
+TEST-EXPL-012-en,125891,TEST-EXPL-012,Experience programs at a temple in Gyeryongsan National Park,138,2027193,Mugaksa Temple (무각사),2,PENDING,PENDING
+TEST-EXPL-012-ja,125891,TEST-EXPL-012,鶏龍山国立公園にある寺院の体験プログラム,138,125891,甲寺（갑사）,1,PENDING,PENDING
+TEST-EXPL-013-ko,2569511,TEST-EXPL-013,경기 감악산 골짜기를 잇는 출렁다리 주차 정보,138,2569511,감악산 출렁다리,1,PENDING,PENDING
+TEST-EXPL-013-en,2569511,TEST-EXPL-013,Parking information for a suspension bridge across a valley on Gamaksan in Gyeonggi,138,2569511,Gamaksan Suspension Bridge (감악산 출렁다리),1,PENDING,PENDING
+TEST-EXPL-013-ja,2569511,TEST-EXPL-013,京畿道の紺岳山の渓谷を結ぶ吊り橋の駐車情報,138,2569511,紺岳山吊橋（감악산 출렁다리）,1,PENDING,PENDING
+TEST-EXPL-014-ko,2751854,TEST-EXPL-014,제주 애월에서 알파카에게 먹이를 주는 목장 체험,138,2751854,도치돌 알파카목장,1,PENDING,PENDING
+TEST-EXPL-014-en,2751854,TEST-EXPL-014,"An alpaca feeding experience at a ranch in Aewol, Jeju",138,2751854,Dochidol Ranch (도치돌 알파카목장),1,PENDING,PENDING
+TEST-EXPL-014-ja,2751854,TEST-EXPL-014,済州の涯月でアルパカに餌をあげる牧場体験,138,2751854,DOCHIDOLアルパカ牧場（도치돌 알파카목장）,1,PENDING,PENDING
+TEST-EXPL-015-ko,945824,TEST-EXPL-015,서울에 있는 대한민국 임시정부 활동 공간 전시관 휴무일,138,945824,서울 경교장,1,PENDING,PENDING
+TEST-EXPL-015-en,945824,TEST-EXPL-015,Closed days of a Seoul exhibition site once used by the Korean provisional government,138,945824,Seoul Gyeonggyojang House (서울 경교장),1,PENDING,PENDING
+TEST-EXPL-015-ja,945824,TEST-EXPL-015,ソウルにある大韓民国臨時政府の活動場所だった展示館の休業日,138,945824,ソウル京橋荘（서울 경교장）,1,PENDING,PENDING

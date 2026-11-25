@@ -1,0 +1,10 @@
+{
+  "review_type": "user_reported_conversation_confirmation",
+  "user_statement": "다 확인했고 틀린거 없어",
+  "date_context": "2026-11-25 Asia/Seoul",
+  "scope": "10 RQ1 intents and displayed language-specific judgments; 30 language rows; no changes reported",
+  "limitations": "No per-item signed review record, reviewer identity, independent blind review, or independent relevance assessment confirmed. User had been shown AI judgments.",
+  "original_query_sha256": "ab665e3faa852d90fa96b94b150d4f74e1b07379ecd7193429873540ac03e1c3",
+  "original_label_sha256": "3d2df5249a7e7595c8b68b8bf1615bfa3cda224d2f77e449bd765ab4d01835b5",
+  "analysis_effect": "No changed labels or queries; preexisting ranks and aggregates unchanged."
+}

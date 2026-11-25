@@ -1,0 +1,13 @@
+﻿query_id,language,field,split,rank_before
+SAMPLE-001-ko,ko,parking,dev,1
+SAMPLE-001-en,en,parking,dev,2
+SAMPLE-001-ja,ja,parking,dev,1
+SAMPLE-002-ko,ko,parking,dev,2
+SAMPLE-002-en,en,parking,dev,1
+SAMPLE-002-ja,ja,parking,dev,17
+SAMPLE-003-ko,ko,experience,dev,6
+SAMPLE-003-en,en,experience,dev,4
+SAMPLE-003-ja,ja,experience,dev,4
+SAMPLE-004-ko,ko,holidays,dev,1
+SAMPLE-004-en,en,holidays,dev,1
+SAMPLE-004-ja,ja,holidays,dev,1

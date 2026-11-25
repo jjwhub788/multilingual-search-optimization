@@ -1,0 +1,17 @@
+{
+  "status": "EXPLORATORY_AI_LABELED_NOT_INDEPENDENT",
+  "selection": "10 places deliberately selected for presence-missing contrast; some test places previously used, no holdout claims",
+  "query_design": "each query asks for an activity and contains location/context; each of 30 queries searched in all three language-specific corpora",
+  "grouping": "same query ranked against each 138-document language corpus, then within-query present-minus-missing, bootstrap by place",
+  "label_warning": "query-specific labels manually AI-reviewed against snapshot, not independently human reviewed; MISSING means not mentioned in document only",
+  "interpretation": "correlation not causal; document language, content, candidate sets, query formulation, and model language behavior are confounded; 3 queries per place not independent",
+  "model": "BAAI/bge-m3",
+  "revision": "5617a9f61b028005a4858fdac845db406aefb181",
+  "max_seq_length": 2048,
+  "truncated_inputs": 0,
+  "hashes": {
+    "data/processed/common_dataset.csv": "98379e1aaacc17c197372a5149a58ada7de0502267bc316d39c0c7666ff98327",
+    "results/rq1_analysis/rq1_queries.csv": "ab665e3faa852d90fa96b94b150d4f74e1b07379ecd7193429873540ac03e1c3",
+    "results/rq1_analysis/rq1_intent_labels.csv": "3d2df5249a7e7595c8b68b8bf1615bfa3cda224d2f77e449bd765ab4d01835b5"
+  }
+}

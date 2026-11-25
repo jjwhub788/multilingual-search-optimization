@@ -1,0 +1,13 @@
+﻿query_id,place_id,intent_id,query,candidate_count,top1_place_id,top1_title,rank_before,relevance_review,language_review
+SAMPLE-001-ko,2613450,SAMPLE-001,휴식을 위한 명상 프로그램이 있고 주차할 수 있는 곳,138,2613450,깊은산속 옹달샘,1,PENDING,PENDING
+SAMPLE-001-en,2613450,SAMPLE-001,A meditation retreat with parking,138,1087114,Jwagusan Recreational Forest (좌구산 자연휴양림),2,PENDING,PENDING
+SAMPLE-001-ja,2613450,SAMPLE-001,瞑想プログラムと駐車場のある場所,138,2613450,キプンサンソッ・オンダルセム(深い山の中森の泉) (깊은산속 옹달샘),1,PENDING,PENDING
+SAMPLE-002-ko,741109,SAMPLE-002,동백꽃을 볼 수 있고 주차할 수 있는 수목원,138,741109,카멜리아힐,1,PENDING,PENDING
+SAMPLE-002-en,741109,SAMPLE-002,A camellia garden with parking,138,741109,Camellia Hill (카멜리아힐),1,PENDING,PENDING
+SAMPLE-002-ja,741109,SAMPLE-002,ツバキが見られて駐車場のある樹木園,138,127817,米東山樹木園（미동산수목원）,25,PENDING,PENDING
+SAMPLE-003-ko,126346,SAMPLE-003,부안에서 템플스테이를 할 수 있는 사찰,138,128637,경주 감은사지,24,PENDING,PENDING
+SAMPLE-003-en,126346,SAMPLE-003,A temple in Buan offering a temple stay,138,126341,Baegyangsa Temple (백양사),7,PENDING,PENDING
+SAMPLE-003-ja,126346,SAMPLE-003,扶安でテンプルステイができる寺院,138,129438,壮泰山自然休養林（장태산자연휴양림）,15,PENDING,PENDING
+SAMPLE-004-ko,126508,SAMPLE-004,화요일에 쉬는 조선 시대 궁궐,138,126508,경복궁,1,PENDING,PENDING
+SAMPLE-004-en,126508,SAMPLE-004,A Joseon-era palace closed on Tuesdays,138,126508,Gyeongbokgung Palace (경복궁),1,PENDING,PENDING
+SAMPLE-004-ja,126508,SAMPLE-004,火曜日が休みの朝鮮時代の宮殿,138,126508,景福宮（경복궁）,1,PENDING,PENDING

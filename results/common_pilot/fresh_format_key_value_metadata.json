@@ -1,0 +1,22 @@
+{
+  "model": "BAAI/bge-m3",
+  "requested_revision": null,
+  "device": "cpu",
+  "max_seq_length": 2048,
+  "document_input": "title + newline + key-value full available enrichment; no address",
+  "candidate_scope": "138 same-language TourAPI documents; holdout-place documents enriched, development-place documents unchanged",
+  "query_set": "fresh heldout-place queries; user checked; author has seen development results",
+  "document_count": 414,
+  "query_count": 30,
+  "truncated_documents": 0,
+  "truncated_queries": 0,
+  "input_sha256": {
+    "data/processed/common_enrichment_corpus_variants.csv": "c95516ac1992dc38561a28152fbcd875b9a17b61eede42d26f2ab39c01b6712f",
+    "results/common_pilot/fresh_holdout_queries_review.csv": "20cf741727f3cbb56dc24b62636d81b22e2a7f8f4dba4a5fa90b0a1e974fc439",
+    "data/processed/common_place_splits_balanced.csv": "5d2668a35af6135746b304db861487c18cfd3b17a388fcee4ace37671fb72257"
+  },
+  "torch_version": "2.8.0",
+  "sentence_transformers_version": "5.1.2",
+  "rank_tie_break": "place_id ascending",
+  "note": "Exploratory heldout-place evaluation; not independently reviewed."
+}

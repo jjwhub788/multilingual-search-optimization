@@ -1,0 +1,292 @@
+﻿query_id,place_id,intent_id,query,candidate_count,top1_place_id,top1_title,rank_before,relevance_review,language_review
+DEV-0001-ko,1059479,DEV-0001,여의도한강공원 운영 시간,138,1059479,여의도한강공원,1,PENDING,PENDING
+DEV-0001-en,1059479,DEV-0001,Yeouido Hangang Park (여의도한강공원) opening hours,138,1059479,Yeouido Hangang Park (여의도한강공원),1,PENDING,PENDING
+DEV-0001-ja,1059479,DEV-0001,汝矣島漢江公園（여의도한강공원） 営業時間,138,1059479,汝矣島漢江公園（여의도한강공원）,1,PENDING,PENDING
+DEV-0002-ko,1087114,DEV-0002,좌구산 자연휴양림 주차 정보,138,1087114,좌구산 자연휴양림,1,PENDING,PENDING
+DEV-0002-en,1087114,DEV-0002,Jwagusan Recreational Forest (좌구산 자연휴양림) parking information,138,1087114,Jwagusan Recreational Forest (좌구산 자연휴양림),1,PENDING,PENDING
+DEV-0002-ja,1087114,DEV-0002,チャグサン(坐亀山 )自然休養林 (좌구산 자연휴양림) 駐車場 情報,138,1087114,チャグサン(坐亀山 )自然休養林 (좌구산 자연휴양림),1,PENDING,PENDING
+DEV-0003-ko,125514,DEV-0003,안양예술공원 주차 정보,138,125514,안양예술공원,1,PENDING,PENDING
+DEV-0003-en,125514,DEV-0003,Anyang Art Park (안양예술공원) parking information,138,125514,Anyang Art Park (안양예술공원),1,PENDING,PENDING
+DEV-0003-ja,125514,DEV-0003,安養芸術公園（안양예술공원） 駐車場 情報,138,125514,安養芸術公園（안양예술공원）,1,PENDING,PENDING
+DEV-0004-ko,125583,DEV-0004,오두산 통일전망대 휴무일,138,125583,오두산 통일전망대,1,PENDING,PENDING
+DEV-0004-en,125583,DEV-0004,Odusan Unification Observatory (오두산 통일전망대) closed days,138,125583,Odusan Unification Observatory (오두산 통일전망대),1,PENDING,PENDING
+DEV-0004-ja,125583,DEV-0004,烏頭山統一展望台（오두산 통일전망대） 休業日,138,125583,烏頭山統一展望台（오두산 통일전망대）,1,PENDING,PENDING
+DEV-0005-ko,125583,DEV-0005,오두산 통일전망대 주차 정보,138,125583,오두산 통일전망대,1,PENDING,PENDING
+DEV-0005-en,125583,DEV-0005,Odusan Unification Observatory (오두산 통일전망대) parking information,138,125583,Odusan Unification Observatory (오두산 통일전망대),1,PENDING,PENDING
+DEV-0005-ja,125583,DEV-0005,烏頭山統一展望台（오두산 통일전망대） 駐車場 情報,138,125583,烏頭山統一展望台（오두산 통일전망대）,1,PENDING,PENDING
+DEV-0006-ko,125761,DEV-0006,구룡사 주차 정보,138,125761,구룡사,1,PENDING,PENDING
+DEV-0006-en,125761,DEV-0006,Guryongsa Temple (구룡사) parking information,138,125761,Guryongsa Temple (구룡사),1,PENDING,PENDING
+DEV-0006-ja,125761,DEV-0006,亀龍寺（구룡사） 駐車場 情報,138,125761,亀龍寺（구룡사）,1,PENDING,PENDING
+DEV-0007-ko,125790,DEV-0007,강릉 경포대 주차 정보,138,125790,강릉 경포대,1,PENDING,PENDING
+DEV-0007-en,125790,DEV-0007,Gyeongpodae Pavilion (강릉 경포대) parking information,138,125790,Gyeongpodae Pavilion (강릉 경포대),1,PENDING,PENDING
+DEV-0007-ja,125790,DEV-0007,江陵 鏡浦台（강릉 경포대） 駐車場 情報,138,125790,江陵 鏡浦台（강릉 경포대）,1,PENDING,PENDING
+DEV-0008-ko,125800,DEV-0008,강릉 선교장 주차 정보,138,125800,강릉 선교장,1,PENDING,PENDING
+DEV-0008-en,125800,DEV-0008,Seongyojang House (강릉 선교장) parking information,138,125800,Seongyojang House (강릉 선교장),1,PENDING,PENDING
+DEV-0008-ja,125800,DEV-0008,江陵船橋荘（강릉 선교장） 駐車場 情報,138,125800,江陵船橋荘（강릉 선교장）,1,PENDING,PENDING
+DEV-0009-ko,125957,DEV-0009,금산 칠백의총 휴무일,138,125957,금산 칠백의총,1,PENDING,PENDING
+DEV-0009-en,125957,DEV-0009,Tomb of Seven Hundred Patriotic Martyrs (Geumsan) (금산 칠백의총) closed days,138,125957,Tomb of Seven Hundred Patriotic Martyrs (Geumsan) (금산 칠백의총),1,PENDING,PENDING
+DEV-0009-ja,125957,DEV-0009,錦山 七百義塚（금산 칠백의총） 休業日,138,125957,錦山 七百義塚（금산 칠백의총）,1,PENDING,PENDING
+DEV-0010-ko,125957,DEV-0010,금산 칠백의총 주차 정보,138,125957,금산 칠백의총,1,PENDING,PENDING
+DEV-0010-en,125957,DEV-0010,Tomb of Seven Hundred Patriotic Martyrs (Geumsan) (금산 칠백의총) parking information,138,125957,Tomb of Seven Hundred Patriotic Martyrs (Geumsan) (금산 칠백의총),1,PENDING,PENDING
+DEV-0010-ja,125957,DEV-0010,錦山 七百義塚（금산 칠백의총） 駐車場 情報,138,125957,錦山 七百義塚（금산 칠백의총）,1,PENDING,PENDING
+DEV-0011-ko,126341,DEV-0011,백양사 주차 정보,138,126341,백양사,1,PENDING,PENDING
+DEV-0011-en,126341,DEV-0011,Baegyangsa Temple (백양사) parking information,138,126341,Baegyangsa Temple (백양사),1,PENDING,PENDING
+DEV-0011-ja,126341,DEV-0011,白羊寺（백양사） 駐車場 情報,138,126341,白羊寺（백양사）,1,PENDING,PENDING
+DEV-0012-ko,126346,DEV-0012,개암사 체험 프로그램,138,126346,개암사,1,PENDING,PENDING
+DEV-0012-en,126346,DEV-0012,Gaeamsa Temple (개암사) experience programs,138,2613450,Godowon Healing Center (깊은산속 옹달샘),2,PENDING,PENDING
+DEV-0012-ja,126346,DEV-0012,開岩寺（개암사） 体験プログラム,138,126346,開岩寺（개암사）,1,PENDING,PENDING
+DEV-0013-ko,126346,DEV-0013,개암사 운영 시간,138,126346,개암사,1,PENDING,PENDING
+DEV-0013-en,126346,DEV-0013,Gaeamsa Temple (개암사) opening hours,138,126346,Gaeamsa Temple (개암사),1,PENDING,PENDING
+DEV-0013-ja,126346,DEV-0013,開岩寺（개암사） 営業時間,138,126346,開岩寺（개암사）,1,PENDING,PENDING
+DEV-0014-ko,126346,DEV-0014,개암사 주차 정보,138,126346,개암사,1,PENDING,PENDING
+DEV-0014-en,126346,DEV-0014,Gaeamsa Temple (개암사) parking information,138,126346,Gaeamsa Temple (개암사),1,PENDING,PENDING
+DEV-0014-ja,126346,DEV-0014,開岩寺（개암사） 駐車場 情報,138,126346,開岩寺（개암사）,1,PENDING,PENDING
+DEV-0015-ko,126397,DEV-0015,광한루원 주차 정보,138,126397,광한루원,1,PENDING,PENDING
+DEV-0015-en,126397,DEV-0015,Gwanghalluwon Garden (광한루원) parking information,138,2654607,Haneul Park (하늘공원),2,PENDING,PENDING
+DEV-0015-ja,126397,DEV-0015,広寒楼苑（광한루원） 駐車場 情報,138,126397,広寒楼苑（광한루원）,1,PENDING,PENDING
+DEV-0016-ko,126487,DEV-0016,마로니에공원 운영 시간,138,126487,마로니에공원,1,PENDING,PENDING
+DEV-0016-en,126487,DEV-0016,Marronnier Park (마로니에공원) opening hours,138,126487,Marronnier Park (마로니에공원),1,PENDING,PENDING
+DEV-0016-ja,126487,DEV-0016,マロニエ公園（마로니에공원） 営業時間,138,126487,マロニエ公園（마로니에공원）,1,PENDING,PENDING
+DEV-0017-ko,126508,DEV-0017,경복궁 입장료,138,126508,경복궁,1,PENDING,PENDING
+DEV-0017-en,126508,DEV-0017,Gyeongbokgung Palace (경복궁) admission fee,138,126508,Gyeongbokgung Palace (경복궁),1,PENDING,PENDING
+DEV-0017-ja,126508,DEV-0017,景福宮（경복궁） 入場料金,138,126508,景福宮（경복궁）,1,PENDING,PENDING
+DEV-0018-ko,126508,DEV-0018,경복궁 휴무일,138,126508,경복궁,1,PENDING,PENDING
+DEV-0018-en,126508,DEV-0018,Gyeongbokgung Palace (경복궁) closed days,138,126508,Gyeongbokgung Palace (경복궁),1,PENDING,PENDING
+DEV-0018-ja,126508,DEV-0018,景福宮（경복궁） 休業日,138,126508,景福宮（경복궁）,1,PENDING,PENDING
+DEV-0019-ko,126508,DEV-0019,경복궁 주차 정보,138,126508,경복궁,1,PENDING,PENDING
+DEV-0019-en,126508,DEV-0019,Gyeongbokgung Palace (경복궁) parking information,138,126508,Gyeongbokgung Palace (경복궁),1,PENDING,PENDING
+DEV-0019-ja,126508,DEV-0019,景福宮（경복궁） 駐車場 情報,138,126508,景福宮（경복궁）,1,PENDING,PENDING
+DEV-0020-ko,126747,DEV-0020,남산골한옥마을 휴무일,138,126747,남산골한옥마을,1,PENDING,PENDING
+DEV-0020-en,126747,DEV-0020,Namsangol Hanok Village (남산골한옥마을) closed days,138,126747,Namsangol Hanok Village (남산골한옥마을),1,PENDING,PENDING
+DEV-0020-ja,126747,DEV-0020,南山コル韓屋村（남산골한옥마을） 休業日,138,126747,南山コル韓屋村（남산골한옥마을）,1,PENDING,PENDING
+DEV-0021-ko,126825,DEV-0021,용마폭포공원 운영 시간,138,126825,용마폭포공원,1,PENDING,PENDING
+DEV-0021-en,126825,DEV-0021,Yongma Falls Park (용마폭포공원) opening hours,138,126825,Yongma Falls Park (용마폭포공원),1,PENDING,PENDING
+DEV-0021-ja,126825,DEV-0021,龍馬瀑布公園（용마폭포공원） 営業時間,138,126825,龍馬瀑布公園（용마폭포공원）,1,PENDING,PENDING
+DEV-0022-ko,127075,DEV-0022,광주공원 운영 시간,138,129443,광주호 호수생태원,2,PENDING,PENDING
+DEV-0022-en,127075,DEV-0022,Gwangju Park (광주공원) opening hours,138,127075,Gwangju Park (광주공원),1,PENDING,PENDING
+DEV-0022-ja,127075,DEV-0022,光州公園（광주공원） 営業時間,138,127075,光州公園（광주공원）,1,PENDING,PENDING
+DEV-0023-ko,127075,DEV-0023,광주공원 주차 정보,138,127075,광주공원,1,PENDING,PENDING
+DEV-0023-en,127075,DEV-0023,Gwangju Park (광주공원) parking information,138,127075,Gwangju Park (광주공원),1,PENDING,PENDING
+DEV-0023-ja,127075,DEV-0023,光州公園（광주공원） 駐車場 情報,138,127075,光州公園（광주공원）,1,PENDING,PENDING
+DEV-0024-ko,127539,DEV-0024,광주패밀리랜드 입장료,138,127539,광주패밀리랜드,1,PENDING,PENDING
+DEV-0024-en,127539,DEV-0024,Gwangju Family Land (광주 패밀리랜드) admission fee,138,127539,Gwangju Family Land (광주 패밀리랜드),1,PENDING,PENDING
+DEV-0024-ja,127539,DEV-0024,光州ファミリーランド（광주패밀리랜드） 入場料金,138,127539,光州ファミリーランド（광주패밀리랜드）,1,PENDING,PENDING
+DEV-0025-ko,127539,DEV-0025,광주패밀리랜드 주차 정보,138,127539,광주패밀리랜드,1,PENDING,PENDING
+DEV-0025-en,127539,DEV-0025,Gwangju Family Land (광주 패밀리랜드) parking information,138,127539,Gwangju Family Land (광주 패밀리랜드),1,PENDING,PENDING
+DEV-0025-ja,127539,DEV-0025,光州ファミリーランド（광주패밀리랜드） 駐車場 情報,138,127539,光州ファミリーランド（광주패밀리랜드）,1,PENDING,PENDING
+DEV-0026-ko,127621,DEV-0026,남망산 조각공원 주차 정보,138,127621,남망산 조각공원,1,PENDING,PENDING
+DEV-0026-en,127621,DEV-0026,Nammangsan Sculpture Park (남망산 조각공원) parking information,138,127621,Nammangsan Sculpture Park (남망산 조각공원),1,PENDING,PENDING
+DEV-0026-ja,127621,DEV-0026,南望山彫刻公園（남망산 조각공원） 駐車場 情報,138,127621,南望山彫刻公園（남망산 조각공원）,1,PENDING,PENDING
+DEV-0027-ko,127740,DEV-0027,별마로천문대 입장료,138,127740,별마로천문대,1,PENDING,PENDING
+DEV-0027-en,127740,DEV-0027,Byeolmaro Observatory (별마로천문대) admission fee,138,127740,Byeolmaro Observatory (별마로천문대),1,PENDING,PENDING
+DEV-0027-ja,127740,DEV-0027,ピョルマロ天文台（별마로천문대） 入場料金,138,127740,ピョルマロ天文台（별마로천문대）,1,PENDING,PENDING
+DEV-0028-ko,127740,DEV-0028,별마로천문대 휴무일,138,127740,별마로천문대,1,PENDING,PENDING
+DEV-0028-en,127740,DEV-0028,Byeolmaro Observatory (별마로천문대) closed days,138,127740,Byeolmaro Observatory (별마로천문대),1,PENDING,PENDING
+DEV-0028-ja,127740,DEV-0028,ピョルマロ天文台（별마로천문대） 休業日,138,127740,ピョルマロ天文台（별마로천문대）,1,PENDING,PENDING
+DEV-0029-ko,127740,DEV-0029,별마로천문대 주차 정보,138,127740,별마로천문대,1,PENDING,PENDING
+DEV-0029-en,127740,DEV-0029,Byeolmaro Observatory (별마로천문대) parking information,138,127740,Byeolmaro Observatory (별마로천문대),1,PENDING,PENDING
+DEV-0029-ja,127740,DEV-0029,ピョルマロ天文台（별마로천문대） 駐車場 情報,138,127740,ピョルマロ天文台（별마로천문대）,1,PENDING,PENDING
+DEV-0030-ko,127817,DEV-0030,미동산수목원 휴무일,138,127817,미동산수목원,1,PENDING,PENDING
+DEV-0030-en,127817,DEV-0030,Midongsan Arboretum (미동산수목원) closed days,138,127817,Midongsan Arboretum (미동산수목원),1,PENDING,PENDING
+DEV-0030-ja,127817,DEV-0030,米東山樹木園（미동산수목원） 休業日,138,127817,米東山樹木園（미동산수목원）,1,PENDING,PENDING
+DEV-0031-ko,127817,DEV-0031,미동산수목원 주차 정보,138,127817,미동산수목원,1,PENDING,PENDING
+DEV-0031-en,127817,DEV-0031,Midongsan Arboretum (미동산수목원) parking information,138,127817,Midongsan Arboretum (미동산수목원),1,PENDING,PENDING
+DEV-0031-ja,127817,DEV-0031,米東山樹木園（미동산수목원） 駐車場 情報,138,127817,米東山樹木園（미동산수목원）,1,PENDING,PENDING
+DEV-0032-ko,127823,DEV-0032,한택식물원 주차 정보,138,127823,한택식물원,1,PENDING,PENDING
+DEV-0032-en,127823,DEV-0032,Hantaek Botanical Garden (한택식물원) parking information,138,127823,Hantaek Botanical Garden (한택식물원),1,PENDING,PENDING
+DEV-0032-ja,127823,DEV-0032,韓宅植物園（한택식물원） 駐車場 情報,138,127823,韓宅植物園（한택식물원）,1,PENDING,PENDING
+DEV-0033-ko,127860,DEV-0033,금능석물원 주차 정보,138,127860,금능석물원,1,PENDING,PENDING
+DEV-0033-en,127860,DEV-0033,Geumneung Seokmulwon (Geumneung Rock Park) (금능석물원) parking information,138,127860,Geumneung Seokmulwon (Geumneung Rock Park) (금능석물원),1,PENDING,PENDING
+DEV-0033-ja,127860,DEV-0033,金陵石物園（금능석물원） 駐車場 情報,138,127860,金陵石物園（금능석물원）,1,PENDING,PENDING
+DEV-0034-ko,127889,DEV-0034,캐리비안베이 주차 정보,138,127889,캐리비안베이,1,PENDING,PENDING
+DEV-0034-en,127889,DEV-0034,Caribbean Bay (캐리비안베이) parking information,138,127889,Caribbean Bay (캐리비안베이),1,PENDING,PENDING
+DEV-0034-ja,127889,DEV-0034,カリビアンベイ（캐리비안베이） 駐車場 情報,138,127889,カリビアンベイ（캐리비안베이）,1,PENDING,PENDING
+DEV-0035-ko,128627,DEV-0035,이월드 주차 정보,138,128627,이월드,1,PENDING,PENDING
+DEV-0035-en,128627,DEV-0035,E-World (이월드) parking information,138,128627,E-World (이월드),1,PENDING,PENDING
+DEV-0035-ja,128627,DEV-0035,E-WORLD（이월드） 駐車場 情報,138,128627,E-WORLD（이월드）,1,PENDING,PENDING
+DEV-0036-ko,128670,DEV-0036,강주연못 주차 정보,138,2661736,행주산성 역사공원,2,PENDING,PENDING
+DEV-0036-en,128670,DEV-0036,Gangju Pond (강주연못) parking information,138,128670,Gangju Pond (강주연못),1,PENDING,PENDING
+DEV-0036-ja,128670,DEV-0036,康州池（강주연못） 駐車場 情報,138,128670,康州池（강주연못）,1,PENDING,PENDING
+DEV-0037-ko,128961,DEV-0037,강변스파랜드 운영 시간,138,128961,강변스파랜드,1,PENDING,PENDING
+DEV-0037-en,128961,DEV-0037,Riverside Spa Land (강변스파랜드) opening hours,138,128961,Riverside Spa Land (강변스파랜드),1,PENDING,PENDING
+DEV-0037-ja,128961,DEV-0037,江辺スパランド（강변스파랜드） 営業時間,138,128961,江辺スパランド（강변스파랜드）,1,PENDING,PENDING
+DEV-0038-ko,128961,DEV-0038,강변스파랜드 주차 정보,138,128961,강변스파랜드,1,PENDING,PENDING
+DEV-0038-en,128961,DEV-0038,Riverside Spa Land (강변스파랜드) parking information,138,128961,Riverside Spa Land (강변스파랜드),1,PENDING,PENDING
+DEV-0038-ja,128961,DEV-0038,江辺スパランド（강변스파랜드） 駐車場 情報,138,128961,江辺スパランド（강변스파랜드）,1,PENDING,PENDING
+DEV-0039-ko,129000,DEV-0039,추암 촛대바위 주차 정보,138,129000,추암 촛대바위,1,PENDING,PENDING
+DEV-0039-en,129000,DEV-0039,Chuam Chotdaebawi Rock (추암 촛대바위) parking information,138,129000,Chuam Chotdaebawi Rock (추암 촛대바위),1,PENDING,PENDING
+DEV-0039-ja,129000,DEV-0039,湫岩燭台岩（추암 촛대바위） 駐車場 情報,138,129000,湫岩燭台岩（추암 촛대바위）,1,PENDING,PENDING
+DEV-0040-ko,129438,DEV-0040,장태산자연휴양림 주차 정보,138,129438,장태산자연휴양림,1,PENDING,PENDING
+DEV-0040-en,129438,DEV-0040,Jangtaesan Recreational Forest (장태산자연휴양림) parking information,138,129438,Jangtaesan Recreational Forest (장태산자연휴양림),1,PENDING,PENDING
+DEV-0040-ja,129438,DEV-0040,壮泰山自然休養林（장태산자연휴양림） 駐車場 情報,138,129438,壮泰山自然休養林（장태산자연휴양림）,1,PENDING,PENDING
+DEV-0041-ko,129443,DEV-0041,광주호 호수생태원 운영 시간,138,129443,광주호 호수생태원,1,PENDING,PENDING
+DEV-0041-en,129443,DEV-0041,Gwangjuho Lake Eco Park (광주호 호수생태원) opening hours,138,129443,Gwangjuho Lake Eco Park (광주호 호수생태원),1,PENDING,PENDING
+DEV-0041-ja,129443,DEV-0041,光州湖湖水生態園（광주호 호수생태원） 営業時間,138,129443,光州湖湖水生態園（광주호 호수생태원）,1,PENDING,PENDING
+DEV-0042-ko,129683,DEV-0042,용소막성당 주차 정보,138,129683,용소막성당,1,PENDING,PENDING
+DEV-0042-en,129683,DEV-0042,Yongsomak Catholic Church (용소막성당) parking information,138,129683,Yongsomak Catholic Church (용소막성당),1,PENDING,PENDING
+DEV-0042-ja,129683,DEV-0042,龍召幕聖堂（용소막성당） 駐車場 情報,138,129683,龍召幕聖堂（용소막성당）,1,PENDING,PENDING
+DEV-0043-ko,1607565,DEV-0043,제이드가든 운영 시간,138,1607565,제이드가든,1,PENDING,PENDING
+DEV-0043-en,1607565,DEV-0043,Jade Garden (제이드가든) opening hours,138,1607565,Jade Garden (제이드가든),1,PENDING,PENDING
+DEV-0043-ja,1607565,DEV-0043,ジェイドガーデン（제이드가든） 営業時間,138,1607565,ジェイドガーデン（제이드가든）,1,PENDING,PENDING
+DEV-0044-ko,1607565,DEV-0044,제이드가든 주차 정보,138,1607565,제이드가든,1,PENDING,PENDING
+DEV-0044-en,1607565,DEV-0044,Jade Garden (제이드가든) parking information,138,1607565,Jade Garden (제이드가든),1,PENDING,PENDING
+DEV-0044-ja,1607565,DEV-0044,ジェイドガーデン（제이드가든） 駐車場 情報,138,1607565,ジェイドガーデン（제이드가든）,1,PENDING,PENDING
+DEV-0045-ko,1626349,DEV-0045,팔공산 케이블카 주차 정보,138,1626349,팔공산 케이블카,1,PENDING,PENDING
+DEV-0045-en,1626349,DEV-0045,Palgongsan Cable Car (팔공산 케이블카) parking information,138,1626349,Palgongsan Cable Car (팔공산 케이블카),1,PENDING,PENDING
+DEV-0045-ja,1626349,DEV-0045,八公山ケーブルカー（팔공산 케이블카） 駐車場 情報,138,1626349,八公山ケーブルカー（팔공산 케이블카）,1,PENDING,PENDING
+DEV-0046-ko,1845544,DEV-0046,원마운트 워터파크 주차 정보,138,1845544,원마운트 워터파크,1,PENDING,PENDING
+DEV-0046-en,1845544,DEV-0046,Onemount Water Park (원마운트 워터파크) parking information,138,1845544,Onemount Water Park (원마운트 워터파크),1,PENDING,PENDING
+DEV-0046-ja,1845544,DEV-0046,ワンマウントウォーターパーク（원마운트 워터파크） 駐車場 情報,138,1845544,ワンマウントウォーターパーク（원마운트 워터파크）,1,PENDING,PENDING
+DEV-0047-ko,1899635,DEV-0047,홍천 은행나무숲 주차 정보,138,1899635,홍천 은행나무숲,1,PENDING,PENDING
+DEV-0047-en,1899635,DEV-0047,Hongcheon Ginkgo Forest (홍천 은행나무숲) parking information,138,1899635,Hongcheon Ginkgo Forest (홍천 은행나무숲),1,PENDING,PENDING
+DEV-0047-ja,1899635,DEV-0047,洪川銀杏の森（홍천 은행나무숲） 駐車場 情報,138,1899635,洪川銀杏の森（홍천 은행나무숲）,1,PENDING,PENDING
+DEV-0048-ko,1921423,DEV-0048,롯데워터파크 주차 정보,138,1921423,롯데워터파크,1,PENDING,PENDING
+DEV-0048-en,1921423,DEV-0048,Lotte Water Park (롯데워터파크) parking information,138,1921423,Lotte Water Park (롯데워터파크),1,PENDING,PENDING
+DEV-0048-ja,1921423,DEV-0048,ロッテウォーターパーク（롯데워터파크） 駐車場 情報,138,1921423,ロッテウォーターパーク（롯데워터파크）,1,PENDING,PENDING
+DEV-0049-ko,2350092,DEV-0049,더베이101 주차 정보,138,2350092,더베이101,1,PENDING,PENDING
+DEV-0049-en,2350092,DEV-0049,The Bay 101 (더베이101) parking information,138,2350092,The Bay 101 (더베이101),1,PENDING,PENDING
+DEV-0049-ja,2350092,DEV-0049,The bay101（더베이101） 駐車場 情報,138,2350092,The bay101（더베이101）,1,PENDING,PENDING
+DEV-0050-ko,2436233,DEV-0050,화담숲 운영 시간,138,2436233,화담숲,1,PENDING,PENDING
+DEV-0050-en,2436233,DEV-0050,Hwadam Botanic Garden (화담숲) opening hours,138,2436233,Hwadam Botanic Garden (화담숲),1,PENDING,PENDING
+DEV-0050-ja,2436233,DEV-0050,ファダムスプ（和談の森）（화담숲） 営業時間,138,2436233,ファダムスプ（和談の森）（화담숲）,1,PENDING,PENDING
+DEV-0051-ko,2436233,DEV-0051,화담숲 주차 정보,138,2436233,화담숲,1,PENDING,PENDING
+DEV-0051-en,2436233,DEV-0051,Hwadam Botanic Garden (화담숲) parking information,138,2436233,Hwadam Botanic Garden (화담숲),1,PENDING,PENDING
+DEV-0051-ja,2436233,DEV-0051,ファダムスプ（和談の森）（화담숲） 駐車場 情報,138,2436233,ファダムスプ（和談の森）（화담숲）,1,PENDING,PENDING
+DEV-0052-ko,250398,DEV-0052,정취암 주차 정보,138,250398,정취암,1,PENDING,PENDING
+DEV-0052-en,250398,DEV-0052,Jeongchwiam Hermitage (정취암) parking information,138,250398,Jeongchwiam Hermitage (정취암),1,PENDING,PENDING
+DEV-0052-ja,250398,DEV-0052,浄趣庵（정취암） 駐車場 情報,138,250398,浄趣庵（정취암）,1,PENDING,PENDING
+DEV-0053-ko,2513971,DEV-0053,가실성당 주차 정보,138,2513971,가실성당,1,PENDING,PENDING
+DEV-0053-en,2513971,DEV-0053,Gasil Catholic Church (가실성당) parking information,138,2513971,Gasil Catholic Church (가실성당),1,PENDING,PENDING
+DEV-0053-ja,2513971,DEV-0053,佳室教会（가실성당） 駐車場 情報,138,2513971,佳室教会（가실성당）,1,PENDING,PENDING
+DEV-0054-ko,2554070,DEV-0054,깡깡이 예술마을 체험 프로그램,138,2554070,깡깡이 예술마을,1,PENDING,PENDING
+DEV-0054-en,2554070,DEV-0054,KANGKANGEE Arts Village (깡깡이 예술마을) experience programs,138,2554070,KANGKANGEE Arts Village (깡깡이 예술마을),1,PENDING,PENDING
+DEV-0054-ja,2554070,DEV-0054,カンカンイ芸術村（깡깡이 예술마을） 体験プログラム,138,2554070,カンカンイ芸術村（깡깡이 예술마을）,1,PENDING,PENDING
+DEV-0055-ko,2554070,DEV-0055,깡깡이 예술마을 휴무일,138,2554070,깡깡이 예술마을,1,PENDING,PENDING
+DEV-0055-en,2554070,DEV-0055,KANGKANGEE Arts Village (깡깡이 예술마을) closed days,138,2554070,KANGKANGEE Arts Village (깡깡이 예술마을),1,PENDING,PENDING
+DEV-0055-ja,2554070,DEV-0055,カンカンイ芸術村（깡깡이 예술마을） 休業日,138,2554070,カンカンイ芸術村（깡깡이 예술마을）,1,PENDING,PENDING
+DEV-0056-ko,2563697,DEV-0056,지산유원지 입장료,138,2563697,지산유원지,1,PENDING,PENDING
+DEV-0056-en,2563697,DEV-0056,Jisan Recreation Area (지산유원지) admission fee,138,2563697,Jisan Recreation Area (지산유원지),1,PENDING,PENDING
+DEV-0056-ja,2563697,DEV-0056,芝山遊園地（지산유원지） 入場料金,138,2563697,芝山遊園地（지산유원지）,1,PENDING,PENDING
+DEV-0057-ko,2563697,DEV-0057,지산유원지 주차 정보,138,2563697,지산유원지,1,PENDING,PENDING
+DEV-0057-en,2563697,DEV-0057,Jisan Recreation Area (지산유원지) parking information,138,2563697,Jisan Recreation Area (지산유원지),1,PENDING,PENDING
+DEV-0057-ja,2563697,DEV-0057,芝山遊園地（지산유원지） 駐車場 情報,138,2563697,芝山遊園地（지산유원지）,1,PENDING,PENDING
+DEV-0058-ko,2594360,DEV-0058,익산교도소세트장 휴무일,138,2594360,익산교도소세트장,1,PENDING,PENDING
+DEV-0058-en,2594360,DEV-0058,Iksan Prison Set (익산교도소세트장) closed days,138,2594360,Iksan Prison Set (익산교도소세트장),1,PENDING,PENDING
+DEV-0058-ja,2594360,DEV-0058,益山刑務所セット場（익산교도소세트장） 休業日,138,2594360,益山刑務所セット場（익산교도소세트장）,1,PENDING,PENDING
+DEV-0059-ko,2594360,DEV-0059,익산교도소세트장 주차 정보,138,2594360,익산교도소세트장,1,PENDING,PENDING
+DEV-0059-en,2594360,DEV-0059,Iksan Prison Set (익산교도소세트장) parking information,138,2594360,Iksan Prison Set (익산교도소세트장),1,PENDING,PENDING
+DEV-0059-ja,2594360,DEV-0059,益山刑務所セット場（익산교도소세트장） 駐車場 情報,138,2594360,益山刑務所セット場（익산교도소세트장）,1,PENDING,PENDING
+DEV-0060-ko,2603500,DEV-0060,경주 양남 주상절리 전망대 휴무일,138,2603500,경주 양남 주상절리 전망대,1,PENDING,PENDING
+DEV-0060-en,2603500,DEV-0060,Gyeongju Yangnam Columnar Joint Observatory (경주 양남 주상절리 전망대) closed days,138,2603500,Gyeongju Yangnam Columnar Joint Observatory (경주 양남 주상절리 전망대),1,PENDING,PENDING
+DEV-0060-ja,2603500,DEV-0060,慶州陽南柱状節理展望台（경주 양남 주상절리 전망대） 休業日,138,2603500,慶州陽南柱状節理展望台（경주 양남 주상절리 전망대）,1,PENDING,PENDING
+DEV-0061-ko,2603500,DEV-0061,경주 양남 주상절리 전망대 주차 정보,138,2603500,경주 양남 주상절리 전망대,1,PENDING,PENDING
+DEV-0061-en,2603500,DEV-0061,Gyeongju Yangnam Columnar Joint Observatory (경주 양남 주상절리 전망대) parking information,138,2603500,Gyeongju Yangnam Columnar Joint Observatory (경주 양남 주상절리 전망대),1,PENDING,PENDING
+DEV-0061-ja,2603500,DEV-0061,慶州陽南柱状節理展望台（경주 양남 주상절리 전망대） 駐車場 情報,138,2603500,慶州陽南柱状節理展望台（경주 양남 주상절리 전망대）,1,PENDING,PENDING
+DEV-0062-ko,2606298,DEV-0062,성이시돌목장 주차 정보,138,2606298,성이시돌목장,1,PENDING,PENDING
+DEV-0062-en,2606298,DEV-0062,St. Isidore Farm (성이시돌목장) parking information,138,2606298,St. Isidore Farm (성이시돌목장),1,PENDING,PENDING
+DEV-0062-ja,2606298,DEV-0062,聖イシドル牧場（성이시돌목장） 駐車場 情報,138,2606298,聖イシドル牧場（성이시돌목장）,1,PENDING,PENDING
+DEV-0063-ko,2613450,DEV-0063,깊은산속 옹달샘 주차 정보,138,2613450,깊은산속 옹달샘,1,PENDING,PENDING
+DEV-0063-en,2613450,DEV-0063,Godowon Healing Center (깊은산속 옹달샘) parking information,138,2613450,Godowon Healing Center (깊은산속 옹달샘),1,PENDING,PENDING
+DEV-0063-ja,2613450,DEV-0063,キプンサンソッ・オンダルセム(深い山の中森の泉) (깊은산속 옹달샘) 駐車場 情報,138,2613450,キプンサンソッ・オンダルセム(深い山の中森の泉) (깊은산속 옹달샘),1,PENDING,PENDING
+DEV-0064-ko,2617724,DEV-0064,마린시티 주차 정보,138,2617724,마린시티,1,PENDING,PENDING
+DEV-0064-en,2617724,DEV-0064,Marine City (마린시티) parking information,138,2617724,Marine City (마린시티),1,PENDING,PENDING
+DEV-0064-ja,2617724,DEV-0064,マリンシティ（마린시티） 駐車場 情報,138,2617724,マリンシティ（마린시티）,1,PENDING,PENDING
+DEV-0065-ko,2633896,DEV-0065,가산수피아 운영 시간,138,2633896,가산수피아,1,PENDING,PENDING
+DEV-0065-en,2633896,DEV-0065,Gasan Supia (가산수피아) opening hours,138,2633896,Gasan Supia (가산수피아),1,PENDING,PENDING
+DEV-0065-ja,2633896,DEV-0065,架山スピア（가산수피아） 営業時間,138,2633896,架山スピア（가산수피아）,1,PENDING,PENDING
+DEV-0066-ko,2633896,DEV-0066,가산수피아 주차 정보,138,2633896,가산수피아,1,PENDING,PENDING
+DEV-0066-en,2633896,DEV-0066,Gasan Supia (가산수피아) parking information,138,2633896,Gasan Supia (가산수피아),1,PENDING,PENDING
+DEV-0066-ja,2633896,DEV-0066,架山スピア（가산수피아） 駐車場 情報,138,2633896,架山スピア（가산수피아）,1,PENDING,PENDING
+DEV-0067-ko,2656482,DEV-0067,고하도 해상테마파크 운영 시간,138,2656482,고하도 해상테마파크,1,PENDING,PENDING
+DEV-0067-en,2656482,DEV-0067,Gohado Marine Theme Park (고하도 해상테마파크) opening hours,138,2656482,Gohado Marine Theme Park (고하도 해상테마파크),1,PENDING,PENDING
+DEV-0067-ja,2656482,DEV-0067,高下島海上テーマパーク（고하도 해상테마파크） 営業時間,138,2656482,高下島海上テーマパーク（고하도 해상테마파크）,1,PENDING,PENDING
+DEV-0068-ko,2661441,DEV-0068,등기산스카이워크 주차 정보,138,2661441,등기산스카이워크,1,PENDING,PENDING
+DEV-0068-en,2661441,DEV-0068,Deunggisan Skywalk (등기산스카이워크) parking information,138,2661441,Deunggisan Skywalk (등기산스카이워크),1,PENDING,PENDING
+DEV-0068-ja,2661441,DEV-0068,登起山スカイウォーク（등기산스카이워크） 駐車場 情報,138,2661441,登起山スカイウォーク（등기산스카이워크）,1,PENDING,PENDING
+DEV-0069-ko,2661736,DEV-0069,행주산성 역사공원 주차 정보,138,2661736,행주산성 역사공원,1,PENDING,PENDING
+DEV-0069-en,2661736,DEV-0069,Haengjusanseong Fortress History Park (행주산성 역사공원) parking information,138,2661736,Haengjusanseong Fortress History Park (행주산성 역사공원),1,PENDING,PENDING
+DEV-0069-ja,2661736,DEV-0069,幸州山城歴史公園（행주산성 역사공원） 駐車場 情報,138,2661736,幸州山城歴史公園（행주산성 역사공원）,1,PENDING,PENDING
+DEV-0070-ko,2668973,DEV-0070,부산엑스더스카이 운영 시간,138,2668973,부산엑스더스카이,1,PENDING,PENDING
+DEV-0070-en,2668973,DEV-0070,BUSAN X the SKY (부산엑스더스카이) opening hours,138,2668973,BUSAN X the SKY (부산엑스더스카이),1,PENDING,PENDING
+DEV-0070-ja,2668973,DEV-0070,BUSAN X the SKY（부산엑스더스카이） 営業時間,138,2668973,BUSAN X the SKY（부산엑스더스카이）,1,PENDING,PENDING
+DEV-0071-ko,2668973,DEV-0071,부산엑스더스카이 주차 정보,138,2668973,부산엑스더스카이,1,PENDING,PENDING
+DEV-0071-en,2668973,DEV-0071,BUSAN X the SKY (부산엑스더스카이) parking information,138,2668973,BUSAN X the SKY (부산엑스더스카이),1,PENDING,PENDING
+DEV-0071-ja,2668973,DEV-0071,BUSAN X the SKY（부산엑스더스카이） 駐車場 情報,138,2668973,BUSAN X the SKY（부산엑스더스카이）,1,PENDING,PENDING
+DEV-0072-ko,2711379,DEV-0072,덕우리체험마을 주차 정보,138,2711379,덕우리체험마을,1,PENDING,PENDING
+DEV-0072-en,2711379,DEV-0072,Deokwoo Experience Village (덕우리체험마을) parking information,138,2711379,Deokwoo Experience Village (덕우리체험마을),1,PENDING,PENDING
+DEV-0072-ja,2711379,DEV-0072,徳雨里体験村（덕우리체험마을） 駐車場 情報,138,2711379,徳雨里体験村（덕우리체험마을）,1,PENDING,PENDING
+DEV-0073-ko,2713440,DEV-0073,순창 쉴랜드 주차 정보,138,2713440,순창 쉴랜드,1,PENDING,PENDING
+DEV-0073-en,2713440,DEV-0073,Shil Land (쉴랜드) parking information,138,2713440,Shil Land (쉴랜드),1,PENDING,PENDING
+DEV-0073-ja,2713440,DEV-0073,シルランド (쉴랜드) 駐車場 情報,138,2713440,シルランド (쉴랜드),1,PENDING,PENDING
+DEV-0074-ko,2719004,DEV-0074,고창 청농원 주차 정보,138,2719004,고창 청농원,1,PENDING,PENDING
+DEV-0074-en,2719004,DEV-0074,Gochang Blue Farm (고창 청농원) parking information,138,2719004,Gochang Blue Farm (고창 청농원),1,PENDING,PENDING
+DEV-0074-ja,2719004,DEV-0074,高敞清農園（고창 청농원） 駐車場 情報,138,2719004,高敞清農園（고창 청농원）,1,PENDING,PENDING
+DEV-0075-ko,2732468,DEV-0075,미르섬 주차 정보,138,2732468,미르섬,1,PENDING,PENDING
+DEV-0075-en,2732468,DEV-0075,Mireuseom Island (미르섬) parking information,138,2732468,Mireuseom Island (미르섬),1,PENDING,PENDING
+DEV-0075-ja,2732468,DEV-0075,ミル島（미르섬） 駐車場 情報,138,2732468,ミル島（미르섬）,1,PENDING,PENDING
+DEV-0076-ko,2733962,DEV-0076,수성동계곡 운영 시간,138,2733962,수성동계곡,1,PENDING,PENDING
+DEV-0076-en,2733962,DEV-0076,Suseongdonggyegok Valley (수성동계곡) opening hours,138,2733962,Suseongdonggyegok Valley (수성동계곡),1,PENDING,PENDING
+DEV-0076-ja,2733962,DEV-0076,水聲洞渓谷（수성동계곡） 営業時間,138,2733962,水聲洞渓谷（수성동계곡）,1,PENDING,PENDING
+DEV-0077-ko,2769599,DEV-0077,대청댐 전망대 주차 정보,138,2769599,대청댐 전망대,1,PENDING,PENDING
+DEV-0077-en,2769599,DEV-0077,Daecheong Dam Observatory (대청댐 전망대) parking information,138,2769599,Daecheong Dam Observatory (대청댐 전망대),1,PENDING,PENDING
+DEV-0077-ja,2769599,DEV-0077,大清ダム展望台（대청댐 전망대） 駐車場 情報,138,2769599,大清ダム展望台（대청댐 전망대）,1,PENDING,PENDING
+DEV-0078-ko,2774063,DEV-0078,객사길 운영 시간,138,2774063,객사길,1,PENDING,PENDING
+DEV-0078-en,2774063,DEV-0078,Gaeksa-gil (객사길) opening hours,138,2774063,Gaeksa-gil (객사길),1,PENDING,PENDING
+DEV-0078-ja,2774063,DEV-0078,客舎道（객사길） 営業時間,138,2774063,客舎道（객사길）,1,PENDING,PENDING
+DEV-0079-ko,2774063,DEV-0079,객사길 주차 정보,138,2774063,객사길,1,PENDING,PENDING
+DEV-0079-en,2774063,DEV-0079,Gaeksa-gil (객사길) parking information,138,2774063,Gaeksa-gil (객사길),1,PENDING,PENDING
+DEV-0079-ja,2774063,DEV-0079,客舎道（객사길） 駐車場 情報,138,2774063,客舎道（객사길）,1,PENDING,PENDING
+DEV-0080-ko,2783148,DEV-0080,국동항 주차 정보,138,2783148,국동항,1,PENDING,PENDING
+DEV-0080-en,2783148,DEV-0080,Gukdonghang Port (국동항) parking information,138,2783148,Gukdonghang Port (국동항),1,PENDING,PENDING
+DEV-0080-ja,2783148,DEV-0080,菊洞港（국동항） 駐車場 情報,138,2783148,菊洞港（국동항）,1,PENDING,PENDING
+DEV-0081-ko,2902731,DEV-0081,동탄센트럴파크 주차 정보,138,2902731,동탄센트럴파크,1,PENDING,PENDING
+DEV-0081-en,2902731,DEV-0081,Dongtan Central Park (동탄센트럴파크) parking information,138,2902731,Dongtan Central Park (동탄센트럴파크),1,PENDING,PENDING
+DEV-0081-ja,2902731,DEV-0081,東灘セントラルパーク（동탄센트럴파크） 駐車場 情報,138,2902731,東灘セントラルパーク（동탄센트럴파크）,1,PENDING,PENDING
+DEV-0082-ko,298095,DEV-0082,구절사 주차 정보,138,298095,구절사,1,PENDING,PENDING
+DEV-0082-en,298095,DEV-0082,Gujeolsa Temple (구절사) parking information,138,298095,Gujeolsa Temple (구절사),1,PENDING,PENDING
+DEV-0082-ja,298095,DEV-0082,亀截寺（구절사） 駐車場 情報,138,298095,亀截寺（구절사）,1,PENDING,PENDING
+DEV-0083-ko,304789,DEV-0083,만어사 주차 정보,138,304789,만어사,1,PENDING,PENDING
+DEV-0083-en,304789,DEV-0083,Maneosa Temple (만어사) parking information,138,304789,Maneosa Temple (만어사),1,PENDING,PENDING
+DEV-0083-ja,304789,DEV-0083,万魚寺（만어사） 駐車場 情報,138,304789,万魚寺（만어사）,1,PENDING,PENDING
+DEV-0084-ko,3072021,DEV-0084,철원역사문화공원 휴무일,138,3072021,철원역사문화공원,1,PENDING,PENDING
+DEV-0084-en,3072021,DEV-0084,Cheorwon History and Culture Park (철원역사문화공원) closed days,138,3072021,Cheorwon History and Culture Park (철원역사문화공원),1,PENDING,PENDING
+DEV-0084-ja,3072021,DEV-0084,鉄原歴史文化公園（철원역사문화공원） 休業日,138,3072021,鉄原歴史文化公園（철원역사문화공원）,1,PENDING,PENDING
+DEV-0085-ko,3072021,DEV-0085,철원역사문화공원 주차 정보,138,3072021,철원역사문화공원,1,PENDING,PENDING
+DEV-0085-en,3072021,DEV-0085,Cheorwon History and Culture Park (철원역사문화공원) parking information,138,3072021,Cheorwon History and Culture Park (철원역사문화공원),1,PENDING,PENDING
+DEV-0085-ja,3072021,DEV-0085,鉄原歴史文化公園（철원역사문화공원） 駐車場 情報,138,3072021,鉄原歴史文化公園（철원역사문화공원）,1,PENDING,PENDING
+DEV-0086-ko,407051,DEV-0086,세미원 주차 정보,138,407051,세미원,1,PENDING,PENDING
+DEV-0086-en,407051,DEV-0086,Semiwon (세미원) parking information,138,407051,Semiwon (세미원),1,PENDING,PENDING
+DEV-0086-ja,407051,DEV-0086,洗美苑（세미원） 駐車場 情報,138,407051,洗美苑（세미원）,1,PENDING,PENDING
+DEV-0087-ko,584698,DEV-0087,스파레이 운영 시간,138,584698,스파레이,1,PENDING,PENDING
+DEV-0087-en,584698,DEV-0087,Spa Lei (스파레이) opening hours,138,584698,Spa Lei (스파레이),1,PENDING,PENDING
+DEV-0087-ja,584698,DEV-0087,スパレイ（스파레이） 営業時間,138,584698,スパレイ（스파레이）,1,PENDING,PENDING
+DEV-0088-ko,584698,DEV-0088,스파레이 주차 정보,138,584698,스파레이,1,PENDING,PENDING
+DEV-0088-en,584698,DEV-0088,Spa Lei (스파레이) parking information,138,584698,Spa Lei (스파레이),1,PENDING,PENDING
+DEV-0088-ja,584698,DEV-0088,スパレイ（스파레이） 駐車場 情報,138,584698,スパレイ（스파레이）,1,PENDING,PENDING
+DEV-0089-ko,613310,DEV-0089,하피랜드 주차 정보,138,613310,하피랜드,1,PENDING,PENDING
+DEV-0089-en,613310,DEV-0089,Hapy Land (하피랜드) parking information,138,613310,Hapy Land (하피랜드),1,PENDING,PENDING
+DEV-0089-ja,613310,DEV-0089,ハピランド（하피랜드） 駐車場 情報,138,613310,ハピランド（하피랜드）,1,PENDING,PENDING
+DEV-0090-ko,662637,DEV-0090,강화해수랜드 주차 정보,138,662637,강화해수랜드,1,PENDING,PENDING
+DEV-0090-en,662637,DEV-0090,Ganghwa Haesoo Land (강화해수랜드) parking information,138,662637,Ganghwa Haesoo Land (강화해수랜드),1,PENDING,PENDING
+DEV-0090-ja,662637,DEV-0090,江華海水ランド（강화해수랜드） 駐車場 情報,138,662637,江華海水ランド（강화해수랜드）,1,PENDING,PENDING
+DEV-0091-ko,741109,DEV-0091,카멜리아힐 주차 정보,138,741109,카멜리아힐,1,PENDING,PENDING
+DEV-0091-en,741109,DEV-0091,Camellia Hill (카멜리아힐) parking information,138,741109,Camellia Hill (카멜리아힐),1,PENDING,PENDING
+DEV-0091-ja,741109,DEV-0091,カメリアヒル（카멜리아힐） 駐車場 情報,138,741109,カメリアヒル（카멜리아힐）,1,PENDING,PENDING
+DEV-0092-ko,741658,DEV-0092,한밭수목원 주차 정보,138,741658,한밭수목원,1,PENDING,PENDING
+DEV-0092-en,741658,DEV-0092,Hanbat Arboretum (한밭수목원) parking information,138,741658,Hanbat Arboretum (한밭수목원),1,PENDING,PENDING
+DEV-0092-ja,741658,DEV-0092,ハンバッ樹木園（한밭수목원） 駐車場 情報,138,741658,ハンバッ樹木園（한밭수목원）,1,PENDING,PENDING
+DEV-0093-ko,769761,DEV-0093,다대포 꿈의 낙조분수 휴무일,138,769761,다대포 꿈의 낙조분수,1,PENDING,PENDING
+DEV-0093-en,769761,DEV-0093,Dadaepo Sunset Fountain of Dreams (다대포 꿈의 낙조분수) closed days,138,769761,Dadaepo Sunset Fountain of Dreams (다대포 꿈의 낙조분수),1,PENDING,PENDING
+DEV-0093-ja,769761,DEV-0093,多大浦夢の落照噴水（다대포 꿈의 낙조분수） 休業日,138,769761,多大浦夢の落照噴水（다대포 꿈의 낙조분수）,1,PENDING,PENDING
+DEV-0094-ko,769761,DEV-0094,다대포 꿈의 낙조분수 주차 정보,138,769761,다대포 꿈의 낙조분수,1,PENDING,PENDING
+DEV-0094-en,769761,DEV-0094,Dadaepo Sunset Fountain of Dreams (다대포 꿈의 낙조분수) parking information,138,769761,Dadaepo Sunset Fountain of Dreams (다대포 꿈의 낙조분수),1,PENDING,PENDING
+DEV-0094-ja,769761,DEV-0094,多大浦夢の落照噴水（다대포 꿈의 낙조분수） 駐車場 情報,138,769761,多大浦夢の落照噴水（다대포 꿈의 낙조분수）,1,PENDING,PENDING
+DEV-0095-ko,970460,DEV-0095,잠실한강공원 운영 시간,138,970460,잠실한강공원,1,PENDING,PENDING
+DEV-0095-en,970460,DEV-0095,Jamsil Hangang Park (잠실한강공원) opening hours,138,970460,Jamsil Hangang Park (잠실한강공원),1,PENDING,PENDING
+DEV-0095-ja,970460,DEV-0095,蚕室漢江公園（잠실한강공원） 営業時間,138,970460,蚕室漢江公園（잠실한강공원）,1,PENDING,PENDING
+DEV-0096-ko,970460,DEV-0096,잠실한강공원 주차 정보,138,970460,잠실한강공원,1,PENDING,PENDING
+DEV-0096-en,970460,DEV-0096,Jamsil Hangang Park (잠실한강공원) parking information,138,970460,Jamsil Hangang Park (잠실한강공원),1,PENDING,PENDING
+DEV-0096-ja,970460,DEV-0096,蚕室漢江公園（잠실한강공원） 駐車場 情報,138,970460,蚕室漢江公園（잠실한강공원）,1,PENDING,PENDING
+DEV-0097-ko,971122,DEV-0097,강화 아르미애월드 주차 정보,138,971122,강화 아르미애월드,1,PENDING,PENDING
+DEV-0097-en,971122,DEV-0097,Ganghwa Armiae World (강화 아르미애월드) parking information,138,971122,Ganghwa Armiae World (강화 아르미애월드),1,PENDING,PENDING
+DEV-0097-ja,971122,DEV-0097,江華アルミエワールド（강화 아르미애월드） 駐車場 情報,138,971122,江華アルミエワールド（강화 아르미애월드）,1,PENDING,PENDING

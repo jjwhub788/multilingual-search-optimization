@@ -1,0 +1,13 @@
+﻿query_id,title_ko,field,language,query,rank_before,rank_after
+SAMPLE-001-ko,깊은산속 옹달샘,parking,ko,휴식을 위한 명상 프로그램이 있고 주차할 수 있는 곳,1,1
+SAMPLE-001-en,깊은산속 옹달샘,parking,en,A meditation retreat with parking,2,2
+SAMPLE-001-ja,깊은산속 옹달샘,parking,ja,瞑想プログラムと駐車場のある場所,1,1
+SAMPLE-002-ko,카멜리아힐,parking,ko,동백꽃을 볼 수 있고 주차할 수 있는 수목원,1,1
+SAMPLE-002-en,카멜리아힐,parking,en,A camellia garden with parking,1,1
+SAMPLE-002-ja,카멜리아힐,parking,ja,ツバキが見られて駐車場のある樹木園,25,19
+SAMPLE-003-ko,개암사,experience,ko,부안에서 템플스테이를 할 수 있는 사찰,24,6
+SAMPLE-003-en,개암사,experience,en,A temple in Buan offering a temple stay,7,3
+SAMPLE-003-ja,개암사,experience,ja,扶安でテンプルステイができる寺院,15,1
+SAMPLE-004-ko,경복궁,holidays,ko,화요일에 쉬는 조선 시대 궁궐,1,1
+SAMPLE-004-en,경복궁,holidays,en,A Joseon-era palace closed on Tuesdays,1,1
+SAMPLE-004-ja,경복궁,holidays,ja,火曜日が休みの朝鮮時代の宮殿,1,1
